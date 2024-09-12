@@ -1,0 +1,61 @@
+<h2>Search Subtitles</h2>
+
+<div><a href="{{ results.file.url }}">{{ video.title }}</a></div>
+<video controls="controls" id="video1" width="720">
+            <source src="{{ results.file.url }}" type="video/mp4" />
+            {% for subtitle in results.subtitles.all %}
+            <track src="{{subtitle.file.url}}" kind="subtitles" srclang="{{subtitle.language|slice:'0:2'}}" label="{{subtitle.language}}" default/>
+            {% endfor %}
+
+</video>
+
+<ul>
+    {% for subtitle in results.subtitles.all %}
+    <li>{{ subtitle.language }}</li>
+    {% endfor %}
+</ul>
+<h1>Subtitle Search</h1>
+    <input type="text" id="searchQuery" placeholder="Enter text to search">
+    <button onclick="searchText()">Search</button>
+    <p id="result"></p>
+
+    
+<hr>
+<p>Back to <a href='/videos/video_list'>Video list</a></p>
+
+<script>
+    // rawSubtitles = JSON.parse("{{ parsed_subtitles| safe }}")
+    console.log(rawSubtitles)
+    // rawSubtitles = rawSubtitles.trim().split('\n\n')
+    // rawSubtitles.shift()
+    // const subtitles = rawSubtitles.map(block => {
+    //     const [time, ...textLines] = block.split('\n');
+    //     const [start, end] = time.split(' --> ');
+    //     return {
+    //         start,
+    //         end,
+    //         text: textLines.join(' ')
+    //     };
+    // });
+
+function searchText() {
+    const query = document.getElementById('searchQuery').value.toLowerCase();
+    const resultElement = document.getElementById('result');
+    
+    // Check if query is empty
+    if (!query) {
+        resultElement.textContent = 'Please enter text to search.';
+        return;
+    }
+
+    // Find matching subtitle
+    const result = subtitles.find(subtitle => subtitle.text.toLowerCase().includes(query));
+
+    if (result) {
+        resultElement.textContent = `Start Time: ${result.start}`;
+    } else {
+        resultElement.textContent = 'Text not found.';
+    }
+}
+
+</script>
