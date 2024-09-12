@@ -1,0 +1,23 @@
+<h2>Uploaded Videos</h2>
+<ul>
+    {% for video in videos %}
+    <li>
+        
+        <div><a href="/videos/search/{{video.id}}">{{ video.title }}</a></div>
+        <video controls="controls" id="video1" width="320">
+            <source src="{{ video.file.url }}" type="video/mp4" />
+            {% for subtitle in video.subtitles.all %}
+            <track src="{{subtitle.file.url}}" kind="subtitles" srclang="{{subtitle.language|slice:'0:2'}}" label="{{subtitle.language}}" default />
+            {% endfor %}
+
+        </video>
+        <ul>
+            {% for subtitle in video.subtitles.all %}
+            <li>{{ subtitle.language }}</li>
+            {% endfor %}
+        </ul>
+    <hr>
+    </li>
+    {% endfor %}
+</ul>
+<p>Back to <a href='/videos/upload'>Upload</a></p>
