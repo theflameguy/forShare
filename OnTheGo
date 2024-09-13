@@ -12,7 +12,7 @@ List View for Uploaded Videos: Implement a list view for uploaded video files. W
 
 Requirements
 
-Subtitle Extraction: Utilize ccextractor for extracting subtitles from videos. The use of any other service for subtitle extraction is not permitted.
+Subtitle Extraction: Utilize ffmpeg for extracting subtitles from videos. The use of any other service for subtitle extraction is not permitted.
 Docker: Containerize the entire application, including the Django backend, PostgreSQL database, and any other services, using Docker. Provide a docker-compose.yml file to facilitate easy setup of the development environment.
 Backend: Develop the backend using Django.
 Frontend: The UI (frontend) of the website will not be a criterion for judgment. Therefore, a simple and functional frontend is acceptable. Evaluation will be based solely on the use of Django and PostgreSQL.
