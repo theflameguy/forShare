@@ -1,6 +1,7 @@
 from django.shortcuts import render, redirect
 from django.http import HttpResponse,JsonResponse
 from django.views.decorators.http import require_POST
+from django.core.files import File
 from .models import Video, Subtitle
 from django.db.models import Q
 import re
@@ -20,8 +21,8 @@ def process_video(video):
         res = subprocess.run(["ffmpeg/ffmpeg.exe",'-i', video_path],capture_output=True,text=True)
         stream_details = extract_stream_details(res.stderr)
         for stream in stream_details:
-            if len(stream[1]) < 1:
-                stream[1] = "Null"
+            if stream[1] == '':
+                stream[1] = "N/A"
             subtitle_path = f'{video_path+stream[1]}.vtt'
             if stream[2] == 'Subtitle':
                 subprocess.run([
@@ -33,8 +34,12 @@ def process_video(video):
                     raise FileNotFoundError(f"!subtitle file not created at {subtitle_path}")
                 with open(subtitle_path, 'r', encoding='utf-8') as f:
                     content = f.read()
+                with open(subtitle_path, 'rb') as file:
+                    my_model_instance = Subtitle(video = video , language=stream[1], content=content)
+                    my_model_instance.file.save(os.path.basename(subtitle_path), File(file))
+                    my_model_instance.save()
+                
 
-                Subtitle.objects.create(video=video, language=stream[1], content=content,file=subtitle_path)
                 
 
 
@@ -81,7 +86,6 @@ def extract_stream_details(file_str):
     return result
 
 
-
 def upload_video(request):
     if request.method == 'POST':
         file = request.FILES['file']
@@ -112,7 +116,6 @@ def search_video(request,id):
     results = Video.objects.get(id=id)
     raw_subtitles = results.subtitles.get(language = 'eng').content
     parsed_subtitles = parse_subtitles(raw_subtitles)
-    print(parsed_subtitles)
     return render(request, 'search_results.html', {'results': results, 'parsed_subtitles':parsed_subtitles})
 
 def search_subtitle(request):
