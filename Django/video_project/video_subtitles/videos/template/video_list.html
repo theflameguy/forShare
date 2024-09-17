@@ -1,23 +1,35 @@
-<h2>Uploaded Videos</h2>
-<ul>
-    {% for video in videos %}
-    <li>
+<html data-bs-theme="dark">
+
+<head><link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"></head>
+<h2 class="p3">Uploaded Video list</h2>
+<h5 class="mt-3 p3">Click on the video title to open</h5>
+
+{% for video in videos %}
+<div class="row mt-3 border border-bottom-2">
+    <div class="h3 pl-3"><a href="/videos/search/{{video.id}}">{{ video.title }}</a></div>
+    <div class="col-sm-3 p-4">
         
-        <div><a href="/videos/search/{{video.id}}">{{ video.title }}</a></div>
-        <video controls="controls" id="video1" width="320">
+        <video class="border border-3 border-dark rounded-2 " controls="controls" id="video1" width="340">
             <source src="{{ video.file.url }}" type="video/mp4" />
             {% for subtitle in video.subtitles.all %}
-            <track src="{{subtitle.file.url}}" kind="subtitles" srclang="{{subtitle.language|slice:'0:2'}}" label="{{subtitle.language}}" default />
+            <track src="{{subtitle.file.url}}" kind="subtitles" label="{{subtitle.language}}" default />
             {% endfor %}
 
         </video>
-        <ul>
+        <!-- <h8>Go to video options to change subtitles</h6> -->
+    </div>
+    <div class="col-sm-2 p-4">
+        <h5>Available Subtitles</h5>
+        <div class="list-group">
             {% for subtitle in video.subtitles.all %}
-            <li>{{ subtitle.language }}</li>
+                <a class="list-group-item list-group-item-action list-group-item-light p-1" href="{{subtitle.file.url}}" target="_blank">{{ subtitle.language }}</a>
             {% endfor %}
-        </ul>
-    <hr>
-    </li>
+        </div>
+    </div>
     {% endfor %}
-</ul>
-<p>Back to <a href='/videos/upload'>Upload</a></p>
+</div>
+<p>Back to <a href='/videos/upload'>File Upload</a></p>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+</html>
