@@ -20,11 +20,293 @@ Storage: Store the processed videos in the Django media folder and save the extr
 Test Case: The web application should successfully process and handle the provided sample video.
 Submission
 
-Include a screenshots folder in the project directory containing screenshots of the application in use. Capture screenshots of every possible action.
-Upload the project to GitHub and provide the repository link.
+Report Name
+BRC Case Assessment Form & Formatter
+Triage resolution Rate
+E Team Report
+TAC - Access and Location information
+SRT 130 ONSTAR RECORDS REQUEST FOR BRANDED APP: DEVICE INFORMATION
+SRT 080 Crash Information
+Executive CAC Escalations Dashboard
+SRT 110 ONSTAR RECORDS REQUEST FOR BRANDED APP: VEHICLE COMMANDS
+Call Insights for Vehicle
+CAC Goodwill Dashboard
+Cases at Risk US
+Cases at Risk Canada
+Cases at Risk Dealer
+Cases at Risk SES
+096F (LIEC) HH Report for Full Day
+096E (LIEC) Half Hour Report
+096M LIEC OneCRM Cases by Outcome
+OneCRM Cases by Outcome
+SRT 040 ACCOUNT DETAILS POST 12 FEB 12
+SRT 020 Service Delivery Reporting
+2046D Case Scorecard
+ADR Case Progression
+CRI004 Crisis Subscription Counts
+CRI004A From Crisis County to Vins and Subscriptions by Zipcode
+CRI004B Crisis Subscription Counts Sum
+AR568 Enterprise Open Case Report
+AR586 Dealer Lead Follow up v2
+AR627 - BRC Legal Compliance Report
+AR631 PAC and VOC 48 Hour Response Pulse Report
+AR635 TAC Case Closer Pulse Report
+AR672 - DSS Case Management
+Customer Journey Scorecard
+Crisis Management Report
+RVDC Case Progression Dashboard
+CAC Insights
+AR264 Partech_Weekly_Output (Ipsos feed)
+Sell Shy Dashboard
+Maiden Voyage
+Executive CAC Escalation Activities
+Help Me Now Case Aging v4.3 GCCX GLIDEPATH Cases
+Help Me Now Case Aging v4.3 GCCX for OPEN Cases
+Think Customer Oshawa Quality Evaluation Data
+Think Customer Saginaw Quality Evaluation Data
+Think Customer Warren Quality Evaluation Data
+Enterprise Goodwill Dashboard
+Emergency Dispatch Performance Report
+SRT 090 Vehicle Location Post 12 Feb 12
+SRT 100 OnStar Records Request for Branded App: Location
+SRT 140 OnStar Records Request for VID
+Monthly Good Samaritan Cases by State (geo)
+Monthly Roadside Assistance Cases by State (geo)
+Monthly Stolen Vehicle Assistance Cases by State
+Monthly Vehicle Slowdown Incidents by State  (with geo added)
+PARTECH-Weekly Pending Escalations-262
+AR654 - CAC Tier1 Closed Cases Dashboard
+AR670 Followup Activity DCM Dashboard
+AR446 CAC Open Cases & Process Compliance Report
+AR671 Connected Open Cases & Process Compliance Report
+OSTA IB Daily Report
+AR517 Productivity Per Hour (Genesys)
+AR637 CA CEC Legal Repurchase Report
+Call and Transfer Dashboard
+OSTA Switchboard V8
+AR656 PAC ESIS Escalation Report for Field Personnel
+OSTA 1 PM Scorecard
+Cases at Risk Mexico
+096C Lost Inbound Emergency Call (LIEC) Prev Month
+096B Lost Inbound Emergency Call (LIEC) Current Month
+096D (LIEC) Summary Report
+080 BTD ACN/ACR Tracker
+110 Accidental Key Press
+2045 SVA_Open Case Volume by Queue Daily
+125 Top 25 PSAP Called  (TOP PSAPS)
+AR460 CAC Closed Case Report
+AR607 CA CEC Initial Contacts Compliance
+AR579 Enterprise Closed Case Report
+AR633 BRC Open Cases Report
+AR578 IVR-TTV
+AR636 PAC Workflow Report
+SWAT 399
+CXCA CEC Repurchase Insights
+Charlotte Think Customer Quality Evaluation Data
+Makati Think Customer Quality Evaluation Data
+Manila Think Customer Quality Evaluation Data
+Mexico Think Customer Quality Evaluation Data
+Help Me Now Case Aging v4.3 GCCX CLOSED Cases
+Help Me Now Case Aging v4.3 GCCX CREATED Cases
+VIN Lookup_DRPO
+OUST Dashboard
+Cx_Customer_report
+CA CEC Warranty
+132 Cruise AV Services A
+Think Customer Austin Quality Evaluation Data
+KPI CRASH
 
 
-https://www.youtube.com/watch?v=RJO10CkzMts&list=RDRJO10CkzMts&start_radio=1
+Cadence
+
+Daily
+Daily
+Daily
+
+On Demand
+Daily
+On Demand
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+On Demand
+On Demand
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Weekly
+Daily
+Weekly
+Weekly
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+On Demand
+On Demand
+On Demand
+Monthly
+Monthly
+Monthly
+Monthly
+Weekly
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Monthly
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily 3 times
+Daily 3 times
+No Schedule
+No Schedule
+
+Retired
+Daily
+Daily
+Daily
 
 
-https://talent-assessment.testgorilla.com/982a3ef8-128d-46b4-8707-2fada2d95bb2
+Source (Cognos/BI Server/DBX)
+
+PBI Pro (DBX)
+Mail
+Mail
+
+
+PBI Pro (DBX)
+Cognos 
+PBI Pro (DBX)
+PBI Pro (DBX)
+PBI Pro (DBX)
+PBI Pro (DBX)
+PBI Pro (DBX)
+PBI Pro (DBX)
+PBI Pro (DBX)
+PBI Pro (DBX)
+PBI Pro (DBX)
+PBI Pro (DBX)
+Cognos
+Cognos
+Cognos
+PBI Pro (DBX)
+PBI Pro (DBX)
+PBI Pro (DBX)
+PBI Pro (DBX)
+PBI Pro (DBX)
+PBI Pro (DBX)
+PBI Pro (DBX)
+PBI Pro (DBX)
+PBI Pro (DBX)
+PBI Pro (DBX)
+PBI Pro (DBX)
+PBI On-Prem
+PBI Pro (DBX)
+PBI Pro (DBX)
+Cognos
+PBI On-Prem
+Query
+PBI Pro (DBX)
+PBI On-Prem
+PBI On-Prem
+Cognos (Email)
+Cognos (Email)
+Cognos (Email)
+PBI Pro (DBX)
+PBI Pro (DBX)
+Cognos
+Cognos
+Cognos
+
+
+
+
+Cognos
+
+
+PBI Pro (DBX)
+
+PBI Pro (DBX)
+PBI Pro (DBX)
+PBI Pro (DBX)
+PBI Pro (DBX)
+PBI Pro (DBX)
+
+PBI On-Prem
+PBI Pro (DBX)
+PBI Pro (DBX)
+PBI Pro (DBX)
+PBI Pro (DBX)
+PBI Pro (DBX)
+PBI Pro (DBX)
+Retired
+Retired
+Retired
+Retired
+PBI Pro (DBX)
+PBI Pro (DBX)
+PBI Pro (DBX)
+Retired
+
+PBI Pro (DBX)
+Cognos (Email)
+Cognos (Email)
+Cognos (Email)
+Cognos (Email)
+PBI Server
+PBI Server
+Retired
+Cognos (Email)
+
+Retired
+PBI Pro (DBX)
+Cognos (Email)
+PBI Pro (DBX)
+
