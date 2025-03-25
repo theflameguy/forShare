@@ -20,158 +20,5738 @@ Storage: Store the processed videos in the Django media folder and save the extr
 Test Case: The web application should successfully process and handle the provided sample video.
 Submission
 
-Report Name
+Product Name
+_Enterprise CoE Reporting Index
+080 BTD ACN ACR TRACKER
+096B Lost Inbound Emergency Call (LIEC) Current Month
+096C Lost Inbound Emergency Call (LIEC) Prev Month
+096D (LIEC) Summary Report
+096E (LIEC) Half Hour Report
+096F (LIEC) HH Report for Full Day
+096F (LIEC) OneCRM Report For Full Day
+096M LIEC OneCRM Cases by Outcome
+110 Accidental Key Press
+132 Cruise AV Services A
+2020X
+2045 SVA_Open Case Volume by Queue Daily
+2046D Case Scorecard
+3rd Party Location Assistance
+Acronym List
+ADO Bugs
+ADO Data as of
+ADO Epics
+ADO Features
+ADO Initiatives
+ADO ROAM
+ADO Stories
+ADO Tasks
+ADO Work Item Creation
+ADR Case Progression
+Advisor Escalation 2021 Power BI
+Advisor Escalation Dashboard
+Advisor Escalation Form
+Advisor Forms and Tools
+Advisor Incorrect
+Advisor Incorrect and Refused Transfer Call
+Advisor Opportunities Dashboard
+Advisor Workbench Down
+Advisor/Process Opportunities
+Advisor/Team Lead/Supervisor/Negative Member Feedback
+AdvisorEscalation
+All Call Centers
+Andon Messaging Dashboard
+ANOC Creator
+AR068 - Goodwill Flash Reports
+AR149 Enterprise Attrition Tenure Headcount Rpt
+AR253 Partech Weekly Cases and Case Loading Report
+AR263 PARTECH-Weekly Action 99 & 42
+AR264 Partech_Weekly_Output
+AR264 Partech_Weekly_Output (Ipsos feed)
+AR446 CAC Open Case & Process Compliance Report
+AR460 CAC Closed Case Report
+AR517 Productivity Per Hour
+AR517 Workflow
+AR568 Enterprise Open Case Report
+AR578  IVR-TTV
+AR579 Enterprise Closed Case Scorecard
+AR581 Goodwill Reporting
+AR586 Dealer Lead Follow up v2
+AR607 CA CEC Initial Contacts Compliance
+AR627 - BRC Legal Compliance Report
+AR629 Dealer Case Management TAC Dashboard
+AR630 TAC Eteam Pulse Report
+AR631 PAC and VOC 48 Hour Response Pulse Report
+AR633 BRC Open Cases Report
+AR634 Customer & Dealer Facing UCC & Service Manual Overview
+AR635 TAC Case Closer Pulse Report
+AR636 PAC Workflow Report
+AR637 CA CEC Legal Repurchase Report
+AR654 CAC Tier1 Closed Cases Dashboard
+AR656 PAC ESIS Escalation Report for Field Personnel
+AR670 Followup Activity DCM Dashboard
+AR671 Connected Open Cases & Process Compliance Report
+AR672 - DSS Case Management
+ASA Wait Time Insights
+Attrition Tracker
+Azure DevOps
+Bev3 Survey
+Bluetooth Setup
+Brazil SET Reference Number
+BRC - Legal Discovery Requests
 BRC Case Assessment Form & Formatter
-Triage resolution Rate
-E Team Report
-TAC - Access and Location information
-SRT 130 ONSTAR RECORDS REQUEST FOR BRANDED APP: DEVICE INFORMATION
-SRT 080 Crash Information
-Executive CAC Escalations Dashboard
-SRT 110 ONSTAR RECORDS REQUEST FOR BRANDED APP: VEHICLE COMMANDS
-Call Insights for Vehicle
+Business and Operations Management
+CA CEC Repurchase Insights
+CA CEC Warranty
 CAC Goodwill Dashboard
-Cases at Risk US
+CAC Insights
+California No Alarm
+Call and Transfer Dashboard
+Call Insights for Vehicle
+Call Tracker - Portuguese
+Call Tracker - Spanish
+Call Tracking for Emergency
+Call Transfer Guide
+Call Transfer Guide (CTG)
+Campanha de Outbound Aberta
+Campanha de Re-Marketing
+Canada Outage Form
+Case Notes Update
+Case Tracker for SVA
 Cases at Risk Canada
 Cases at Risk Dealer
-Cases at Risk SES
-096F (LIEC) HH Report for Full Day
-096E (LIEC) Half Hour Report
-096M LIEC OneCRM Cases by Outcome
-OneCRM Cases by Outcome
-SRT 040 ACCOUNT DETAILS POST 12 FEB 12
-SRT 020 Service Delivery Reporting
-2046D Case Scorecard
-ADR Case Progression
+Cases at Risk Employee Hierarchy ASMS 115932
+Cases at Risk Employee Hierarchy ASMS 59056
+Cases at Risk Mexico
+Cases at Risk ODS
+Cases at Risk US
+CC BU Gold Source
+CC_Report_Inventory
+CC-COE Team Recognition
+CCWF  - Call Transfers Care CTI
+CCWF  - Call Transfers CARE Inbound
+CCWF  - Cases at Risk Dealer Over Time Cases
+CCWF  - Cases at Risk Global Case History
+CCWF  - Cases at Risk Global Cases
+CCWF  - Cases at Risk Global Over Time
+CCWF  - Cases at Risk History
+CCWF  - Cases at Risk North America Cases
+CCWF  - Cases at Risk North America History
+CCWF  - Cases at Risk North America Over Time Cases
+CCWF - Call Transfers Connected CTI
+CCWF - Call Transfers Manager
+CCWF - Call Transfers SES
+CCWF - Cases at Risk Cases US
+Chamada de Boas-Vindas - Cartão de Crédito
+CISM
+CJ_Callback_162 workflow
+CNC Facilities Request
+Códigos de error de la aplicación de teléfono inteligente - Español
+Códigos de error de la aplicación de teléfono inteligente - Portuguese
+COE Reporting Index
+Command Center Processes And Repository
+Compass
+Connected Get Help and EV Concierge Escalation
+Contact Center - Command Center Tour Calendar
+Contact Center Approved for PBI Access
+Contact Center Excellence
+Contact Center Health of the Business
+Contact Center Operational Reporting
+Contact Center Report Management
+Contact Center Training
+Contractor Recognition Form
+Conversion Metric To English
+Crash Escalation Write Up
+Crash No ACR Triage
+CRI001 ALL MEXICO LAST 24 HOURS
+CRI001 DISTRICT OF COLUMBIA LAST 24 HOURS
+CRI001 PROVINCE OF ALBERTA LAST 24 HOURS
+CRI001 PROVINCE OF BRITISH COLUMBIA LAST 24 HOURS
+CRI001 PROVINCE OF MANITOBA LAST 24 HOURS
+CRI001 PROVINCE OF NEW BRUNSWICK LAST 24 HOURS
+CRI001 PROVINCE OF NEWFOUNDLAND AND LABRADOR LAST 24 HOURS
+CRI001 PROVINCE OF NORT … LAST 24 HOURS
+CRI001 PROVINCE OF NOVA SCOTIA LAST 24 HOURS
+CRI001 PROVINCE OF NUNAVUT LAST 24 HOURS
+CRI001 PROVINCE OF ONTARIO LAST 24 HOURS
+CRI001 PROVINCE OF PRINCE EDWARD ISLAND LAST 24 HOURS
+CRI001 PROVINCE OF SASKATCHEWAN LAST 24 HOURS
+CRI001 PROVINCE OF YUKON LAST 24 HOURS
+CRI001 PROVINCE OF QUEBEC LAST 24 HOURS
+CRI001 STATE OF ALABAMA LAST 24 HOURS
+CRI001 STATE OF ALASKA LAST 24 HOURS
+CRI001 STATE OF ARIZONA LAST 24 HOURS
+CRI001 STATE OF ARKANSAS LAST 24 HOURS
+CRI001 STATE OF CALIFORNIA LAST 24 HOURS
+CRI001 STATE OF COLORADO LAST 24 HOURS
+CRI001 STATE OF CONNECTICUT LAST 24 HOURS
+CRI001 STATE OF DELAWARE LAST 24 HOURS
+CRI001 STATE OF FLORIDA LAST 24 HOURS
+CRI001 STATE OF GEORGIA LAST 24 HOURS
+CRI001 STATE OF HAWAII LAST 24 HOURS
+CRI001 STATE OF IDAHO LAST 24 HOURS
+CRI001 STATE OF INDIANA LAST 24 HOURS
+CRI001 STATE OF KANSAS LAST 24 HOURS
+CRI001 STATE OF KENTUCKY LAST 24 HOURS
+CRI001 STATE OF LLLINOIS LAST 24 HOURS
+CRI001 STATE OF LOUISIANNA LAST 24 HOURS
+CRI001 STATE OF LOWA LAST 24 HOURS
+CRI001 STATE OF MAINE LAST 24 HOURS
+CRI001 STATE OF MARYLAND LAST 24 HOURS
+CRI001 STATE OF MASSACHUSETTS LAST 24 HOURS
+CRI001 STATE OF MICHIGAN LAST 24 HOURS
+CRI001 STATE OF MINNESOTA LAST 24 HOURS
+CRI001 STATE OF MISSISSIPPI LAST 24 HOURS
+CRI001 STATE OF MISSOURI LAST 24 HOURS
+CRI001 STATE OF MONTANA LAST 24 HOURS
+CRI001 STATE OF NEBRASKA LAST 24 HOURS
+CRI001 STATE OF NEVADA LAST 24 HOURS
+CRI001 STATE OF NEW HAMPSHIRE LAST 24 HOURS
+CRI001 STATE OF NEW JERSEY LAST 24 HOURS
+CRI001 STATE OF NEW MEXICO LAST 24 HOURS
+CRI001 STATE OF NEW YORK LAST 24 HOURS
+CRI001 STATE OF NORTH CAROLINA LAST 24 HOURS
+CRI001 STATE OF NORTH DAKOTA LAST 24 HOURS
+CRI001 STATE OF OHIO LAST 24 HOURS
+CRI001 STATE OF OKLAHOMA LAST 24 HOURS
+CRI001 STATE OF OREGON LAST 24 HOURS
+CRI001 STATE OF PENNSYLVANIA LAST 24 HOURS
+CRI001 STATE OF RHODE ISLAND LAST 24 HOURS
+CRI001 STATE OF SOUTH CAROLINA LAST 24 HOURS
+CRI001 STATE OF SOUTH DAKOTA LAST 24 HOURS
+CRI001 STATE OF TENNESSEE LAST 24 HOURS
+CRI001 STATE OF TEXAS LAST 24 HOURS
+CRI001 STATE OF UTAH LAST 24 HOURS
+CRI001 STATE OF VERMONT LAST 24 HOURS
+CRI001 STATE OF VIRGINIA LAST 24 HOURS
+CRI001 STATE OF WASHINGTON LAST 24 HOURS
+CRI001 STATE OF WEST VIRGINIA LAST 24 HOURS
+CRI001 STATE OF WISCONSIN LAST 24 HOURS
+CRI001 STATE OF WYOMING LAST 24 HOURS
+CRI001 TERRITORY OF PUERTO RICO LAST 24 HOURS
 CRI004 Crisis Subscription Counts
 CRI004A From Crisis County to Vins and Subscriptions by Zipcode
 CRI004B Crisis Subscription Counts Sum
-AR568 Enterprise Open Case Report
-AR586 Dealer Lead Follow up v2
-AR627 - BRC Legal Compliance Report
-AR631 PAC and VOC 48 Hour Response Pulse Report
-AR635 TAC Case Closer Pulse Report
-AR672 - DSS Case Management
-Customer Journey Scorecard
+CRI007 UNIT STATUS COUNTS - CANADA
+CRI007 UNIT STATUS COUNTS - MEXICO
+CRI007 UNIT STATUS COUNTS - US
+Crisis Assist - Admin Site
+Crisis Assist - Member Disaster Response
+Crisis Call Listening
 Crisis Management Report
-RVDC Case Progression Dashboard
-CAC Insights
-AR264 Partech_Weekly_Output (Ipsos feed)
-Sell Shy Dashboard
-Maiden Voyage
+Crisis Support Team
+Critical Incident Stress Management
+CUJ5_P_W_0004 - MX forecast workflow
+Customer Experience Strategy and Innovation Idea
+Customer Journey Scorecard
+CVO Vehicle Issues
+CX Customer Workflow
+CX Management
+Cyber Security
+Cyber Security Feedback - Portuguese
+DBC Vehicle Build Out
+DCM CUJ4_P_003 workflow
+Dealer Business Center
+Dealer Escalation (Dealer Interference)
+Dealer Interference
+Dealer Support Vehicle Distribution Ramp
+DEF UREA Warnings
+Dispatcher Of The Year Submissions
+DTC Error Codes
+E Team Report
+E-CoE Action Required
+ECoE ADO Data Tool
+E-CoE Data Sources
+E-CoE Issue Contact List
+E-CoE Issue Impacted Products
+E-CoE Issue Notifications
+E-CoE Major Projects
+E-CoE Ops Reporting
+E-CoE Ops Reporting Big Wins
+E-CoE Ops Reporting Recognition Tracking
+E-CoE PRB Issues
+E-CoE Product Audit
+E-CoE Product Contacts
+E-CoE Product Data Sources
+E-CoE Product Information
+E-CoE Product Inventory
+E-CoE Product Issues
+E-CoE Product Ownership
+E-CoE Product Run Book
+ECoE Product Users
+E-CoE Product Users
+E-CoE Report Glossary
+E-CoE Report ToC Data
+E-CoE Retired Products
+E-CoE SharePoint Table Maintenance Tool
+E-CoE Team Information
+E-COE Team Story Hours
+EMD Practical Training Assessment
+EmerCris
+Emergency Advisor Readiness Dashboard
+Emergency Advisor Readiness Tracker
+Emergency Business Operations - Call Monitoring
+Emergency Collision Escalation
+Emergency Collision Escalation (AACN, MCR)
+Emergency Dispatch Performance Report
+Emergency ER Escalations
+Emergency Exigent Tracker
+Emergency Poor IPSOS ER Assigned
+Emergency Repeat Caller
+Emergency Risk Tracker
+Emerging Issues Dashboard
+Emerging Issues Month Display
+Emerging Issues Update
+EmergingIssues
+Enhanced Member Continuity
+Enterprise CoE Recognitions
+Enterprise CoE Recognitions (data)
+Enterprise CoE Reporting
+Enterprise CoE Reporting Teams
+Enterprise Goodwill Dashboard
+EUC Reports
+EV Thermal Runaway Event
+Exceptional Call Recognition
 Executive CAC Escalation Activities
-Help Me Now Case Aging v4.3 GCCX GLIDEPATH Cases
+Executive CAC Escalations Dashboard
+Executive Relations Escalation Write-Up
+External Investigation Request
+Fleet Request Escalation
+Florida No Alarm
+Formulário Feedback Concessionárias
+Formulario Feedback Concessionario (Dealer Feedback)
+GAA Case at Risk
+Game of Phones PTO
+Game of Phones Team SharePoint
+Game of Phones Teams
+GCC Bridge Line Template
+GCC Leadership
+GCC Overtime Tracker
+GCC Performance Scorecard
+GCC Workforce Management
+GCC Workforce Management (WFM) Legacy
+Gen 10 Wi-Fi Not Enabled from Factory
+Global Command Center Document Repository
+Global Deployment Communications
+Global Launch Office Check List
+Global Launch Office Dashboard
+GLOLaunchViewer
+GM Authors and Approvers
+GM Bug Active Reports
+GM Card Product Comparison
+GM Card Products Comparison
+GM Contact Center CoE Teams
+GM Indicator
+GM Indicator Tool - Portuguese
+GM Indicator Tool - Spanish
+GM Legal Staff Database Search
+GM On Call
+GM Rewards and Messaging
+GM Rewards Siebel Outage Form
+GM Threat Report
+GM Vehicle Indicators Tool
+GMA Authors and Approvers List
+GoP Agile Delivery
+GoP Agile Delivery 5.0
+GoP AutoMon
+GoP Goals
+GoP Goals_Details
+GoP Individual Capacity
+GoP Monthly Retrospective
+GoP New Product Ops Support Request
+GoP New Report Request
+GoP PI Delivery
+GoP PI Planning
+GoP PI Sessions
+GoP Product Run Book
+GoP Report Enhancement Requests
+GoP Report Usage
+GoP Required Glenda Roles
+GoP Review and Demo
+GoP Sprint Delivery
+GoP Sprint Planning
+GoP Sprints
+GoP Team Stats
+Guardian Sales Form
+Help Me Now Case Aging v4.3 GCCX CLOSED Cases
+Help Me Now Case Aging v4.3 GCCX CREATED Cases
 Help Me Now Case Aging v4.3 GCCX for OPEN Cases
+Help Me Now Case Aging v4.3 GCCX GLIDEPATH Cases
+Hive CT ID Status workflow
+Hive VQ Hierarchy workflow
+Holiday Patterns
+ICE
+ICE IT Incident Summary Report
+ICE Standby Leveraging Report
+IEX - CUJ1_P_W_0002 workflow
+IEX Audit Report
+IEX SOP
+IEX-Feeds
+In Vehicle Coaching - Issue Reporting
+Inaccurate Email Tracker
+Information Capture
+Information Capture Tool - Portuguese
+Information Capture Tool - Spanish
+Interactions by Brand
+iva_bb_wb_pilot workflow
+Key Event Tracking for Digital Business Team Calendar
+KeyCalendar-OnLine
+KM Defect Tracker
+Knowledge Management Home Site
+Knowledge Management Team Site
+KPI Crash
+KPI_Crash_Workflow_db_ESS_NQ
+L&D Dashboard
+Maiden Voyage
+Manager On Duty
+Marketing Escalation Form
+Marketing Indicator Opt Out
+MBPR Call and Transfer Dashboard
+Media Call Form
+Mid-Day Recap for Social Media
+Mobile App Error Triage
+Mobile Apps Trouble Codes or Trouble Codes
+Modem Beeping Complaints
+Monthly Active Connected Subscribers by State
+Monthly Active Subscribers by State
+Monthly Core Services Report
+Monthly Good Samaritan Cases by State
+Monthly Stolen Vehicle Assistance Cases by State
+Multiple Products
+MY15 Gen10 Wi-Fi Nof Enabled from Factory Request
+NCC
+New Vehicle Damage
+New Vehicle Damage Dashboard
+New Vehicle Damage Form
+NICE/IEX Application
+nlp_pilot workflow
+Non - CTF Driver Data
+Non Launch Event
+Non Launch Event Entry Form
+Non OnStar Case Tracker
+Non-Launch Event Request and Agenda
+Non-Member Credit Card Case
+Non-OnStar Case Tracking - New Case
+Non-Subscriber Credit Card Case
+OAM Escalations
+On Call List
+OneCRM - Messaging GME
+OneCRM - Messaging GMNA
+OneCRM - Messaging GMSA
+OneCRM - Messaging MEO
+OneCRM Business Value
+OneCRM Cases by Outcome
+OneCRM/IEX
+OnStar Account Manager Issue Tracker (OAM Escalations)
+OnStar Button Triage
+Onstar Mexico Marketing Team
+OnStar Quality Team Site
+OnStar Services Health of the Business
+OnStar Tools and Forms
+OnStar Universal Solutions Tool
+Operations Meeting and Scorecard
+OSTA 1 PM Scorecard
+OSTA IB Daily Report
+OSTA Issue Tracker
+OSTA Switch Board V8
+OUST Dashboard
+OUST Status Dashboard
+Outbound Credit Card Capture
+OVD Triage
+Owner Center Login Troubleshooting
+PAC Reporting
+PARTECH-Weekly Corrective Action Volume by Specific Catalog Group-458
+PARTECH-Weekly Pending Escalations-262
+PARTECH-Weekly RFI R1 Cases-405
+PARTECH-Weekly Top 100 Parts per Cases-404
+Post A-Bay Advisor Assessment
+PQC Transmission Engine Cost
+Product Management Tool
+Project_Azure TXN
+PSAP Escalation
+PSAP Issue Tracker
+PSAP Phone Book
+Rastreador na Estrada
+Recall Campaigns VSOE Reporting
+Red Cross Call Log No Duty Officer Contacted
+Release to Production Requests
+Release to Production Requests 2020
+Renewal Connected Services Package
+Renewal Connected Services Packages
+Renewal Notice Request
+Repurchase Review Reporting
+Request to Talk to a CIL
+Restricted Account PIN Only
+RVDC Case Progression Dashboard
+Sales Plan Modification
+Santa Seeker - Portuguese
+Santa Seeker - Spanish
+Santa Seeker (GMNA)
+Sell Shy Dashbaoard
+Sell Shy Workflow
+SET Tracker - Portuguese
+Set Tracker - Spanish
+SharePointRequests
+Siebel Outage Collection Form
+Smart Phone Error Code - Spanish
+Smart Phone Troubleshooting Error Codes
+SmartPhone App Error Codes - Potuguese
+Social and Messaging Threshold
+Social Media Escalations
+Speak Up For Safety
+Special Application Request in Production
+SRT 020 Service Delivery Reporting
+SRT 020-A SERVICE DELIVERY REPORTING POST
+SRT 040 ACCOUNT DETAILS POST 12 FEB 12
+SRT 080 Crash Information
+SRT 090 Vehicle Location
+SRT 090-A Vehicle Location Post
+SRT 100 OnStar Branded App: Location
+SRT 110 ONSTAR RECORDS REQUEST FOR BRANDED APP: VEHICLE COMMANDS
+SRT 130 ONSTAR RECORDS REQUEST FOR BRANDED APP: DEVICE INFORMATION
+SRT 140 OnStar Records Request for VID
+SRT 140-A OnStar Records Request for VID
+SRT Reporting
+SSO
+Stolen Vehicle Assistance Tracking Dashboard
+Successful 2nd Offer Survey
+Successful 2nd Offer Survey Sheet
+Super Cruise Opt. Hardware Customer Delete
+Super User - Portuguese
+Super User - Spanish
+Supplier-Partner Invoicing
+SVA Tracker
+TAC - Access and Location information
+TAC DCM Quality Form Report
+Think Customer Austin Quality Evaluation Data
+Think Customer Charlotte Quality Evaluation Data
+Think Customer Makati Quality Evaluation Data
+Think Customer Manila Quality Evaluation Data
+Think Customer Mexico Quality Evaluation Data
 Think Customer Oshawa Quality Evaluation Data
 Think Customer Saginaw Quality Evaluation Data
 Think Customer Warren Quality Evaluation Data
-Enterprise Goodwill Dashboard
-Emergency Dispatch Performance Report
-SRT 090 Vehicle Location Post 12 Feb 12
-SRT 100 OnStar Records Request for Branded App: Location
-SRT 140 OnStar Records Request for VID
-Monthly Good Samaritan Cases by State (geo)
-Monthly Roadside Assistance Cases by State (geo)
-Monthly Stolen Vehicle Assistance Cases by State
-Monthly Vehicle Slowdown Incidents by State  (with geo added)
-PARTECH-Weekly Pending Escalations-262
-AR654 - CAC Tier1 Closed Cases Dashboard
-AR670 Followup Activity DCM Dashboard
-AR446 CAC Open Cases & Process Compliance Report
-AR671 Connected Open Cases & Process Compliance Report
-OSTA IB Daily Report
-AR517 Productivity Per Hour (Genesys)
-AR637 CA CEC Legal Repurchase Report
-Call and Transfer Dashboard
-OSTA Switchboard V8
-AR656 PAC ESIS Escalation Report for Field Personnel
-OSTA 1 PM Scorecard
-Cases at Risk Mexico
-096C Lost Inbound Emergency Call (LIEC) Prev Month
-096B Lost Inbound Emergency Call (LIEC) Current Month
-096D (LIEC) Summary Report
-080 BTD ACN/ACR Tracker
-110 Accidental Key Press
-2045 SVA_Open Case Volume by Queue Daily
-125 Top 25 PSAP Called  (TOP PSAPS)
-AR460 CAC Closed Case Report
-AR607 CA CEC Initial Contacts Compliance
-AR579 Enterprise Closed Case Report
-AR633 BRC Open Cases Report
-AR578 IVR-TTV
-AR636 PAC Workflow Report
-SWAT 399
-CXCA CEC Repurchase Insights
-Charlotte Think Customer Quality Evaluation Data
-Makati Think Customer Quality Evaluation Data
-Manila Think Customer Quality Evaluation Data
-Mexico Think Customer Quality Evaluation Data
-Help Me Now Case Aging v4.3 GCCX CLOSED Cases
-Help Me Now Case Aging v4.3 GCCX CREATED Cases
+TOP PSAP
+Training Request
+TrainingCalendar
+Triage resolution Rate
+Unable To Cancel Customer Account
 VIN Lookup_DRPO
-OUST Dashboard
-Cx_Customer_report
-CA CEC Warranty
-132 Cruise AV Services A
-Think Customer Austin Quality Evaluation Data
-KPI CRASH
+Welcome Call - Credit Card
+Wi-Fi Bluetooth Review Tool
+Wi-Fi Setup
+Wi-Fi Triage
+Workforce Report
 
 
-Cadence
+Status
+Active
+Active
+Active
+Active
+Active
+Retired
+Active
+Active
+Active
+Active
+Active
+Active
+Retired
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Retired
+Retired
+New
+Active
+Active
+Active
+Active
+Retired
+Active
+Retired
+Retired
+Active
+Active
+Retired
+Retired
+Active
+Retired
+Active
+Active
+Active
+Active
+Active
+Retired
+Active
+Retired
+Active
+Retired
+Retired
+Active
+Active
+Retired
+Retired
+Retired
+Active
+Retired
+Retired
+Retired
+Retired
+Retired
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Retired
+Active
+Active
+Active
+Active
+Active
+Active
+Retired
+Active
+Active
+Retired
+Active
+Active
+Active
+Retired
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Planned
+Active
+Active
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+Retired
+Active
+New
+Active
+Active
+Active
+Retired
+Active
+Active
+Active
+Active
+Active
+Active
+New
+Active
+Active
+Active
+New
+Active
+Active
+Active
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Active
+Active
+Active
+Retired
+Retired
+Retired
+Active
+Active
+Retired
+Active
+Retired
+Active
+Active
+Retired
+Active
+Active
+Retired
+Active
+Active
+Active
+Retired
+Active
+Active
+Active
+Retired
+Retired
+Active
+Retired
+Active
+Active
+Retired
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Retired
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Retired
+Active
+Retired
+Active
+Retired
+Active
+Active
+Active
+Active
+Active
+Retired
+Active
+Active
+New
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Retired
+Active
+Active
+Active
+Retired
+Retired
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+New
+Planned
+Active
+Retired
+Active
+Active
+Active
+Retired
+Active
+Active
+Retired
+Active
+Retired
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Retired
+Active
+Retired
+Active
+Active
+Active
+Active
+Active
+Retired
+Retired
+Active
+Active
+Active
+Retired
+Retired
+Retired
+Retired
+Active
+Active
+Active
+Active
+Active
+Retired
+Active
+Active
+Active
+Retired
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Planned
+Active
+Active
+Retired
+Active
+Active
+Active
+Retired
+Active
+Active
+Retired
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Retired
+Active
+Active
+Active
+Retired
+Retired
+Active
+Active
+Retired
+Active
+Active
+Active
+Retired
+Active
+Active
+Active
+Active
+Retired
+Retired
+Active
+Retired
+Active
+Active
+Active
+Active
+Retired
+Retired
+New
+Active
+New
+New
+Planned
+Active
+Active
+Retired
+Active
+Active
+Retired
+New
+Active
+Active
+Retired
+Active
+Active
+Active
+Active
+Active
+Retired
+Active
+Active
+Active
+Planned
+Active
+Active
+Retired
+Retired
+Retired
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Planned
+Retired
+Retired
+Retired
+Active
+Active
+Active
+Planned
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Retired
+Retired
+Active
+Retired
+Retired
+Retired
+Active
+Active
+Active
+Retired
+Retired
+Active
+Retired
+Active
+Retired
+Active
+Active
+Active
+Retired
+Active
+Active
+Active
+Active
+Retired
+New
+Retired
+Retired
+Retired
+Retired
+Active
+Retired
+Retired
+Active
+Active
+Active
+New
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Retired
+Active
+Active
+Retired
+Retired
+Retired
+Retired
+Retired
+Active
+Active
+Active
+
+
+State
+Active
+Active
+Active
+Active
+Active
+Retired
+Active
+Active
+Active
+Active
+Active
+Sunset Planned
+Retired
+Sunset Planned
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Retired
+Retired
+New Request
+Active
+Active
+Active
+Active
+Retired
+Active
+Retired
+Retired
+Active
+Active
+Retired
+Retired
+Active
+Retired
+Sunset Planned
+Active
+Sunset Planned
+Active
+Sunset Planned
+Retired
+Active
+Retired
+Active
+Retired
+Retired
+Active
+Active
+Retired
+Retired
+Retired
+Active
+Retired
+Retired
+Retired
+Retired
+Retired
+Active
+Under Construction
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Retired
+Active
+Active
+Active
+Active
+Active
+Active
+Retired
+Active
+Active
+Retired
+Active
+Active
+Active
+Retired
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Under Construction
+Active
+Active
+New T2O
+New T2O
+New T2O
+New T2O
+New T2O
+New T2O
+New T2O
+New T2O
+New T2O
+New T2O
+New T2O
+New T2O
+New T2O
+New T2O
+Retired
+Active
+New T2O
+Active
+Active
+Active
+Retired
+Active
+Active
+Active
+Active
+Active
+Active
+New Request
+Active
+Active
+Active
+New Request
+Active
+Active
+Active
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Retired
+Active
+Active
+Active
+Retired
+Retired
+Retired
+Active
+Active
+Retired
+Active
+Retired
+Active
+Active
+Retired
+Active
+Active
+Retired
+Active
+Active
+Active
+Retired
+Active
+Active
+Active
+Retired
+Retired
+Active
+Retired
+Active
+Active
+Retired
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Retired
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Retired
+Active
+Retired
+Active
+Retired
+Active
+Active
+Active
+Active
+Active
+Retired
+Active
+Active
+Under Construction
+Sunset Planned
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Retired
+Active
+Active
+Active
+Retired
+Retired
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+New Request
+Under Construction
+Active
+Retired
+Active
+Sunset Planned
+Sunset Planned
+Retired
+Active
+Active
+Retired
+Active
+Retired
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Retired
+Active
+Retired
+Under Construction
+Active
+Active
+Active
+Active
+Retired
+Retired
+Active
+Active
+Active
+Retired
+Retired
+Retired
+Retired
+Active
+Active
+Active
+Active
+Active
+Retired
+Sunset Planned
+Sunset Planned
+New Request
+Retired
+Active
+Active
+Active
+Under Construction
+Active
+Active
+Active
+Under Construction
+Active
+Active
+Retired
+Active
+Active
+Active
+Retired
+Active
+Active
+Retired
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Retired
+Active
+Active
+Active
+Retired
+Retired
+Active
+Active
+Retired
+Active
+Active
+Sunset Planned
+Active
+Active
+Active
+Active
+Active
+Retired
+Retired
+Active
+Retired
+Active
+Active
+Active
+Active
+Retired
+Retired
+New Request
+Active
+New Request
+New Request
+Under Construction
+Active
+Active
+Retired
+Active
+Active
+Retired
+New Request
+Active
+Active
+Retired
+Active
+Active
+Active
+Under Construction
+Active
+Retired
+Active
+Active
+Active
+Under Construction
+Active
+Active
+Retired
+Retired
+Retired
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Under Construction
+Retired
+Retired
+Retired
+Active
+Active
+Active
+Under Construction
+Active
+Active
+Under Construction
+Active
+Active
+Active
+Active
+Retired
+Retired
+Active
+Retired
+Retired
+Retired
+Active
+Active
+Active
+Retired
+Retired
+Active
+Retired
+Active
+Retired
+Under Construction
+Active
+Active
+Retired
+Under Construction
+Under Construction
+Active
+Active
+Retired
+Under Construction
+Retired
+Retired
+Retired
+Retired
+Active
+Retired
+Retired
+Under Construction
+Active
+Active
+Enhancement Planned
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+Retired
+Active
+Active
+Retired
+Retired
+Sunset Planned
+Retired
+Retired
+Active
+Active
+Active
+
+
+Category
+General
+EMER
+EMER
+EMER
+EMER
+EMER
+EMER
+EMER
+EMER
+EMER
+EMER
+EMER
+EMER
+EMER
+Other (See Comments)
+General
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+General
+BRC
+General
+General
+Other (See Comments)
+General
+General
+General
+EMER
+General
+General
+General
+General
+General
+
+General
+CAC
+General
+General
+Par Tech
+
+
+CAC
+CAC
+VOC
+General
+VOC
+Par Tech
+VOC
+CAC
+Par Tech
+BRC
+BRC
+TAC
+
+BRC
+BRC
+General
+
+
+BRC
+
+
+General
+General
+VOC
+General
+General
+General
+General
+General
+General
+General
+BRC
+General
+BRC
+General
+CAC
+CAC
+TAC
+General
+General
+General
+
+General
+General
+
+General
+General
+General
+
+General
+General
+General
+General
+General
+General
+General
+General
+General
+E-CoE Ops
+E-CoE Ops
+General
+General
+General
+General
+General
+General
+General
+General
+General
+General
+General
+General
+General
+General
+
+General
+General
+General
+General
+General
+
+General
+General
+General
+General
+E-CoE Ops
+General
+General
+General
+General
+General
+General
+General
+General
+General
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EMER
+EMER
+EMER
+
+
+
+General
+General
+
+EMER
+
+General
+General
+
+General
+General
+
+General
+General
+General
+
+General
+General
+General
+
+
+General
+
+General
+TAC
+E-CoE Ops
+General
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+General
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+General
+E-CoE Ops
+E-CoE Ops
+
+General
+EMER
+General
+
+General
+General
+EMER
+General
+General
+
+General
+General
+General
+GCC
+General
+General
+General
+E-CoE Ops
+E-CoE Ops
+General
+General
+General
+General
+
+General
+General
+Executive CAC
+General
+General
+General
+TAC
+General
+General
+General
+E-CoE Ops
+General
+General
+GCC
+General
+GCC
+General
+GCC
+General
+General
+General
+General
+General
+GLO
+GLO
+General
+
+General
+
+General
+General
+General
+General
+General
+General
+General
+General
+General
+General
+
+E-CoE Ops
+General
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+General
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+General
+General
+General
+General
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+E-CoE Ops
+General
+General
+EMER
+EMER
+EMER
+EMER
+General
+General
+GCC
+General
+GCC
+GCC
+General
+GCC
+General
+General
+
+General
+General
+General
+General
+VOC
+General
+
+General
+General
+General
+General
+EMER
+General
+General
+General
+General
+General
+General
+General
+General
+General
+General
+General
+General
+EMER
+EMER
+General
+EMER
+EMER
+General
+General
+General
+General
+General
+General
+General
+General
+
+
+General
+General
+General
+General
+General
+General
+
+
+General
+General
+General
+General
+General
+General
+General
+
+General
+General
+
+General
+General
+General
+General
+EMER
+EMER
+General
+EMER
+EMER
+General
+General
+General
+General
+General
+Par Tech
+Par Tech
+General
+
+General
+General
+General
+E-CoE Ops
+General
+General
+General
+General
+General
+
+
+
+General
+General
+General
+General
+EMER
+General
+BRC
+General
+General
+General
+General
+General
+
+General
+
+
+
+General
+General
+General
+General
+
+General
+
+GM Legal
+
+GM Legal
+GM Legal
+GM Legal
+
+GM Legal
+GM Legal
+GM Legal
+GM Legal
+
+GM Legal
+General
+
+
+
+General
+
+
+General
+General
+TAC
+TAC
+Quality
+Quality
+Quality
+Quality
+Quality
+Quality
+Quality
+Quality
+EMER
+General
+General
+EMER
+
+EMER
+
+
+General
+General
+GCC
+
+
+Purpose
+A report with vital information and links to All Contact Center reports.
+ACR/ACN report
+LIEC By Site Monthly Report
+LIEC By Site Monthly Report
+LIEC Summary Report
+LIEC Half Hour Report LIEC - Lost Inbound Emergency Call
+LIEC Full Day Report LIEC - Lost Inbound Emergency Call
+LIEC Full Day Report LIEC - Lost Inbound Emergency Call with OneCRM Data
+Creating a new report to support a new Member Service Team business workflow in handling Lost Inbound Emergency Calls  (see Feature 4023488 for Details
+Report includes accidental key presses by consumers and is used in EMER forecasting
+Call data for Cruize AV services
+The 2020x is a business critical report that provides an output of the cases open in GAA. This report is then uploaded into a homegrown Microsoft Access Database that allows the 130 advisors the ability to get assigned the appropriate cases in a first in / first out basis
+A list of open case that are all TRACK_VEHICLE Cases. These are system generated cases used by the vehicle location and tracking team
+A Summary of all cases for Connected ( OnStar ) created by GAA  handled by a particular LOB. This data is consumed by the connected issue resolution teams. The 2046D generates at 4AM and the open case count will balance to the number of records in the 3AM
+Retired - Purpose Unknown
+Provides a list of Acronyms and their definitions
+A SharePoint List containing all the Bugs from ADO.  Used for E-CoE reporting.
+A SharePoint List containing the data that ADO data was pulled.  Used for E-CoE reporting.
+A SharePoint List containing all the Epics from ADO.  Used for E-CoE reporting.
+A SharePoint List containing all the Features from ADO.  Used for E-CoE reporting.
+A SharePoint List containing all the Initiatives from ADO.  Used for E-CoE reporting.
+A SharePoint List containing all the ROAM from ADO.  Used for E-CoE reporting.
+A SharePoint List containing all the User Stories from ADO.  Used for E-CoE reporting.
+A SharePoint List containing the Tasks for Current and future Sprints only due to list limitations of 5000 records.  Used for E-CoE reporting.
+A tool for the automated creation of ADO Features, Stories, and Tasks
+The report is used to track the progression on cases in the Alternate Dispute Resolution business unit.
+Standard Report for Advisor Escalations
+Display current issue Advisors are reporting
+Retired - Purpose Unknown
+Main location for Advisor forms and tools
+Reporting on bad call transfers
+Tracking for bad phone transfers or refused transfers
+Reporting for Advisor Opportunities
+Track the times and solutions for the Advisor tool being down
+Tracking Process Opportunities for Advisors
+Track complaints from members - GMSA
+Advisor reporting technical issues while on the phones with Members
+Support database for forms
+Retired - Purpose Unknown
+Help produce uniform Advisor Notification of Change
+View counts of Goodwill submissions, returns, and return reasons
+Tracks the monthly advisors turnover for each of the contact centers
+A list of Closed Partech cases and comments.
+Shows Partech Corrective Actions (Open and Closed Cases).
+This report is about case number and their open date and status etc for closing the case.
+Same as AR264
+Report out on metrics related to cases still being worked by advisor at the sites
+Examine CAC trend over 13 months period
+Measure productivity using siebel activity and genesys staffed time data of bussiness group with offline (non- call) activities
+Loads the Oozie workflow for AR 517
+To examine Open Cases across the US GM Contact Center Space
+Determine whether the part number contains a Text-To-Voice Message, count of transfer and calls for each part
+Examine case closure trend acorss US Contact centers
+Snapshot of Goodwill count and Amounts that are attached to a case.
+Track the number of customers that are In Market to purchase a vehicle within the next 6 months. As well as track the number of potential leads, customers that have indicated they would like to be contacted by the dealership. In addition measuring the suc
+Track case assessment compliances
+To review case compliance to select BRC Legal metrics for Open Cases & to review how these compliances have trended over time.
+The report is about dealer case management i.e response time, dealer usage and adoption rate
+IndividualBox and GroupBox
+This Report gives a detailed analysis of PAC & VOC calls that are attended by employees and are resolved within 48 hours. It can be categorized into various statuses.
+Report out on metrics for cases still being worked by advisors on site
+This report is about Service manual overview for Customer and dealers.
+This report represents backlog of previous day basis different activity status. The other dashboard deals with dimensions like name, login id, date hierarchy to monitor number of records.
+Case load analysis
+CEC Legal Repurchase or Deny
+Report out on metrics related to closed  cases on complaints
+REPORT DISCARDED
+Thia report is all about the what is the responce time for follow up the activity
+Thia report is all about Email responce history
+Daily Case Volume, Cases closed, Opened etc
+Analysis on Average Speed to Answer (ASA) by Business Unit with comparisons of Agents on Legacy and OneCRM
+SharePoint Form for tracking Supplier Partner Attrition data
+Used by the E-COE Ops Teams for Agile Program Management - Steve Johnson is the Scrum Leader.
+Tracking survey responses
+Bluetooth pairing step by step tool - GMMEO
+Support database for Brazil SET Tracker
+Legal Discovery Communications
+Used by ADR to assign work
+Business support for OnStar
+Provides insights into the California Vehicle Repurchase program.
+
+CAC provided Goodwill by Region, Service Manager and BAC
+The CAC Insights report is a collection of dashboards focused on providing insights on case driven metrics. This report includes only the open part delay cases which have been escalated from the side of the dealers where they have been waiting for a long time for a specific vehicle part. The dealers are reaching out to CAC BUs in order to escalate the requests.
+TAC Information for California
+This report shows calls and transfers of calls to identify LOBs with higher transfer rates.
+Call Insights for Vehicle reports provide a comprehensive overview of the calls offered across different LOBs and highlights the EV specific calls out of them.
+Track type of calls received by SA Portuguese Advisors
+Retired - Purpose Unknown
+Tracking issue during Emergency Calls
+A tool to Provide the correct team to transfer member calls to
+Retired - Purpose Unknown
+Tracking Open Outbound Campaign results
+Tracking Re-Marketing Campaign
+Tracking calls when Siebel is down for completing  later
+Retired - Purpose Unknown
+Tracking Stolen Vehicles for Members
+The Cases at Risk suite of reports help identify Customer Care cases within specific business units that have the potential of escalation to Executive CAC or otherwise cause customer dissatisfaction.  Additionally, by drilling down to an advisor level, the reports can identify opportunities for quality improvement and possible training needs.
+The Cases at Risk suite of reports help identify Customer Care cases within specific business units that have the potential of escalation to Executive CAC or otherwise cause customer dissatisfaction.  Additionally, by drilling down to an advisor level, the reports can identify opportunities for quality improvement and possible training needs.
+EDAI Created Data Workflow
+EDAI Created Data Workflow
+The Cases at Risk suite of reports help identify Customer Care cases within specific business units that have the potential of escalation to Executive CAC or otherwise cause customer dissatisfaction.  Additionally, by drilling down to an advisor level, the reports can identify opportunities for quality improvement and possible training needs.
+The Cases at Risk suite of reports help identify Customer Care cases within specific business units that have the potential of escalation to Executive CAC or otherwise cause customer dissatisfaction.  Additionally, by drilling down to an advisor level, the reports can identify opportunities for quality improvement and possible training needs.
+The Cases at Risk suite of reports help identify Customer Care cases within specific business units that have the potential of escalation to Executive CAC or otherwise cause customer dissatisfaction.  Additionally, by drilling down to an advisor level, the reports can identify opportunities for quality improvement and possible training needs.
+The Gold Source for all Contact Center Business Units
+A SharePoint List containing all the Contact Center Reports.  Used for E-CoE reporting.
+A tool for our supplier-partners to recognize or be recognized member of the CC-COE Team.
+EDAI Created Data Workflow
+EDAI Created Data Workflow
+EDAI Created Data Workflow
+EDAI Created Data Workflow
+EDAI Created Data Workflow
+EDAI Created Data Workflow
+EDAI Created Data Workflow
+EDAI Created Data Workflow
+EDAI Created Data Workflow
+EDAI Created Data Workflow
+EDAI Created Data Workflow
+EDAI Created Data Workflow
+EDAI Created Data Workflow
+EDAI Created Data Workflow
+Retired - Purpose Unknown
+Critical Incident Stress Management site
+Workflow
+Track CNC Facilities issues
+Smart phone error tool
+Tool for Advisor to lookup Error Codes assosicated with Smart Phones
+Short list of commonly used reports by Neelie, expand to cover more
+General file repository for Processes and Documents for the Command Center
+Advisor Recognition Tool
+Provide communications between Advisors on the phones with Members and the business team that can fulfill the Members requests
+Tracking and communications for Contact Center Tours
+A list of personnel that are approved for access to our PowerBI Cloud workspace.
+Running Contact Centers
+Provides a quick overview of the health of the contact center business units under Neelie's organization.
+Viva Engage (Yammer) site to communicate with the Business
+This is a MS Access db connected to the CC_Report_Inventory SP List allowing users to maintain the data on the list in an easy, efficient manor.
+Training for Advisors
+Replaces the Recognition form in Compass with a Power Apps application
+Conversion tool for Advisors on the phones with Members
+Tracking Collision Escalations
+Crash triage tool
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Call Monitoring Data in separate reports for 50 States
+Report includes info about Count of fleet accounts and retail accounts by each state and county
+Report incldudes Vehicle Count, Vehicle Status and Vehicle Unit Status based on City, State, County and Zip Code
+Report includes info about Count of fleet accounts and retail accounts by State, County, North America Region and Country
+Report includes Count of Vehicle, Vehicle Status & Vehicle Onstar Hardware Unit status based on City, State, County and Zip Code. (Note: There is a separate report for Mexico, USA and Canada)
+Report includes Count of Vehicle, Vehicle Status & Vehicle Onstar Hardware Unit status based on City, State, County and Zip Code. (Note: There is a separate report for Mexico, USA and Canada)
+Report includes Count of Vehicle, Vehicle Status & Vehicle Onstar Hardware Unit status based on City, State, County and Zip Code. (Note: There is a separate report for Mexico, USA and Canada)
+Provide information for Crisis Events
+Provide Crisis Event Information to Advisors
+Retired - Purpose Unknown
+Crisis Call Monitoring Data for US, Canada, and Mexico by State/Province and County/Parish.  Replaces All 66 CRI001 and the 3 CRI007 reports.
+Retired - Purpose Unknown
+Critical Incident Stress Management Support for Advisors Mental Health
+Workflow
+Retired - Purpose Unknown
+In partnership with the business, the Customer Journey report was created to transition from the static PDF report to a interactive Power Bi. The Power BI provides an executive summary overview along with insights into various elements of the contact cent
+Tracking of issues form CVO Drivers
+Loads the Oozie workflow for CX Customer objects
+Business support forms and tools for OnStar
+Report possible cyber attacks
+Tracking possible Cyber Issues
+Retired - Purpose Unknown
+Workflow
+Dealer communication site
+Report Dealer interference durring the Welcome Call
+Retired - Purpose Unknown
+Retired - Purpose Unknown
+Support database for GM Vehicle Indicator Tool
+Retired - Purpose Unknown
+DTC Error Code Lookup Tool
+TAC information
+A SharePoint List containing ADO Actions required fixing by team members.
+A tool to organize and format ADO data for easy reporting
+A SharePoint List containing all the Data Sources for Products Supported.  Used for E-CoE reporting.
+A list of contacts for a specific issue notification
+A list of impacted Products by Issue ID
+A list of Active Issue Notifications
+A listing of major projects and their status
+This site will be the new home of the Contact Center Report Inventory as well as the location of all the data for the E-CoE Ops Reporting Team's data for PowerBI Reports.
+Big wins for the Enterprise CoE Operational Reporting Team
+A PowerBI report that provides a concatenation of the recognitions that come from the GM Recognition Tool and from other sources like ADO Agile Retrospectives.  Supports CAP goals for sending monthly recognitions.
+A SharePoint List containing Product Inventory issues  required fixing by team members.
+The quarterly audit results for reporting products bound by audit.
+A SharePoint List containing all the product contact information.  Used for notifications.
+The data source relationship to a specific product.  Used for E-CoE reporting.
+Provides all the information on the Products that we support
+A list of all the Product that the E-CoE Operations Team supports
+Issues experienced daily with the products we manage.  Used for E-CoE reporting.
+A SharePoint List containing all the Product Business Owner's information.  Used for E-CoE reporting.
+Maintains all of the basic information on the products that we support
+A listing of the users of a specific product
+A list of the Users of a Product based on the previous quarterly audit.  Only auditable products are included.
+A glossary for a specific report.  Used for E-CoE reporting.
+Used to populate Table of Contents into PBI Cloud reports.  Used for E-CoE reporting.
+A SharePoint List with information on all the Products that have been retired.
+A local Tool for each team member to use to update SharePoint List records: PTO, Retros, Recognitions, Product Run Book, Data Sources, and more. Allows users to create Issue Notifications.
+Used for All People Meetings and other events to showcase the team's activities
+A list designed to allow the E-CoE non-GoP team members to track the hours to complete a story.  Required as they don't us tasks.
+Retired - Purpose Unknown
+Advisor Forms and Tools for Emergencies
+Display results from the Emergecy Advisor Training
+Track the progress of Advisor during Emergency training
+Retired - Purpose Unknown
+Track Collision issue
+Track issues with Collisions
+Emergency Agency and Advisor Dispatch Performance
+Track issues during an Emergency Call
+Use for any Emergency with issues other than SVA
+Retired - Purpose Unknown
+Track and communicate accounts that need temporarly turned off due to system repeat calling
+Reporting Emergency issues and tracking
+Emerging Issues Meeting Agenda
+Report of Emerging Issues used in daily EI Meeting
+Business tracking of technical issues
+Business tracking of technical issues
+Provide communications between Advisors on the phones with Members and the business team that can fulfill the Members requests
+A list of all the recognitions from the GM Recognition tool and the E-CoE Recognition tool.  Used for E-CoE reporting.
+The data behind the PowerBI recognitions report.
+Team communications
+Private Team's site for the entire team to use and communicate
+The Enterprise Goodwill report is designed to analyze goodwill spend trend across different LOBs, locations and vehicles. A case detail page is separately dedicated to study goodwill trend at granular level across SRs.
+SPAC reports - temporary coverage until transferred to CCA
+Retired - Purpose Unknown
+Provide feedback of good Advisor interaction with Members - GMMEO
+EDAI Created Data Workflow
+Weekly CAC Executive escalation analysis along with active cases, closed cases
+Tracking for Executive Escalations
+Track request for investigations through outside sources - GMMEO
+Provide communications between Advisors on the phones with Fleet Members and the business team that can fulfill the Fleet Members requests
+TAC information for Florida
+Track feedback provided by members - GMSA
+Tracking for feedback provided by dealers - GMSA
+It is aggregated file of cases with risk profile over a period of time.
+Tracks the Game of Phones time off for PI and Sprint Capacity Planning.  Used for E-CoE reporting.
+The Game of Phones SharePoint site attached to our Teams site
+Team's site for the entire team to use and communicate with focus on the GoP Team
+Bridge Line Template Excel for GCC
+SharePoint site for communications
+Overtime Tracker Excel for GCC
+Provide a quick readout of Key Performance Metrics with tranding.
+Pending Nick's Input
+Pending Nick's Input
+Provide communications between Advisors on the phones with Members and the business team that can fulfill the Members requests
+Site to house ICE databases
+Global Deployment Site
+Check list used by the GLO team for launch events
+Site visitor report
+Hit counter for views on the database from the calendar
+Business communication and training tracking for GMA for Knowledge Management Team
+Retired - Purpose Unknown
+Comparisson tool for GM Cards to aid sales
+Comparisson tool for GM Cards to aid sales
+Team's site for the entire team to use and communicate
+Tool to provide information on Dashboard indicators and Driver Information Statements - GMMEO
+Tool to provide information on Dashboard indicators and Driver Information Statements - GMSA
+Tool to provide information on Dashboard indicators and Driver Information Statements - GMSA
+Request tracking for Legal Search
+Calendar to display GM On Call
+Advisor Tools and Forms
+Track Siebel Outages
+Workflow to get Threat incidents to the right people, with auto-generated views/emails
+Tool to provide information on Dashboard indicators and Driver Information Statements
+Business communication and training tracking for GMA for Knowledge Management Team
+A PowerBI report with the Agile Delivery of the Game of Phones Team.  Used for CAP metrics.
+A tool used for PI and Sprint Planning and Game of Phones Agile metrics
+Tracks refresh of Data and Reports
+Game of Phones PI-Sprint Goals.  Used for E-CoE reporting.
+Game of Phones PI-Sprint Goals Details.  Used for E-CoE reporting.
+A SharePoint List for individual capacity for PI-Sprint Planning.  Used for E-CoE reporting.
+A list of retrospective comments from the Game of Phones Agile Development Team.
+Provides a method for users to request Operational Monitoring for a new report.
+Provides a method for users to request a new report.
+A SharePoint List containing all the delivery data by PI.  Used for E-CoE reporting.
+Details for PI Planning Sessions
+A SharePoint List containing all the PI Session information.  Used for E-CoE reporting.
+A complete list of the products supported by the GoP Agile Team.
+Provides users with the ability to log an enhancement request for one of the GoP supported products.
+A list of the usage for all Game of Phones supported reports.
+A list of all the GoP team's required Glenda Roles.  Used when new personnel join the team AND to ensure that all team members have the corrects access, especially for back-up duties.
+A report to send notifications of a Sprint or PI Review
+A SharePoint List containing all the delivery data by Sprint.  Used for E-CoE reporting.
+Details for Sprint Planning Sessions
+A SharePoint List containing all the Sprint information.  Used for E-CoE reporting.
+A tool to provide feedback to the Game of Phones Team Members
+Track possible sales for guardian
+Help me Now closed cases summary
+Help me Now closed created summary
+This Report includes info about Open Cases (Daily/Year) based on different values such as Site, LOB, Category, Case Type, Vehicle Model Type and Year
+This Report includes Distinct Glidepath Case count based on different values such as Site, Category, Case Type, Vehicle Model Type and Year
+Workflow
+Workflow
+History of interval-level volume for forecasting holiday patterns
+Real-time Management Suite for GCC Tracking/Reporting
+Summarize IT Incident Details tracked by GCC
+Summarize Standby Leveraging plays within Skill Change Requests
+Workflow
+Audit Report showing what is/isn't filled out in IEX for each supplier partner
+SOP for Required Agent Definition fields
+IEX Cloud queries and ad-hoc assistance to support business processes/reporting
+Retired - Purpose Unknown
+Track and repair inaccurate emails on file - GMMEO
+Capture information from Advisor interaction with Members
+Capture information from Advisor interaction with Members
+Capture information form Advisor interaction with Members
+Understand the Contact Center interactions by  Brand
+Workflow
+Display launch events
+Review and Display Launch Events
+Tracking quality of GMA for launch
+KM Team Use
+KM Team communications
+It involves Metrics and KPI related to crash vehicles like the geometric vehicle crash locations, services enabled after crash like was airbag opened or not, weather customer center received call from crashed vehicles, response from the contact centers an
+Loads the workflow for KPI Crash
+Provides tracking of training duration reduction efforts and the due dates for training classes.
+Allstate data for vehicles requiring a tow in the first 3 months of ownership
+Calendar for Manager On Duty
+Track and communicate Marketing Issues to Business
+Opt Out Tracker
+This is a special view for Nick Acton to support the Monthly Business Process Review
+Track request for information from Media members
+Provide daily interaction reporting from suppliers
+Provide definition for error codes - GMMEO
+Provide definition for error codes
+Track and report Modem Beeping
+The report is about count of Monthly Active connected subscribers for all the states.
+The report is about count of Monthly subscribers for all the states which are active to any plan.
+Provides Monthly Count for Core services of vehicles like TBT etc
+This report provides aggregated data for Good samaritan cases
+The report is about count of Monthly Stolen Vehicle Assistance Cases  for all the states.
+Used in ADO to indicate that the Feature or Story impacts multiple products.
+Track Factory Issues with Gen10 products
+Site to house National Command Center forms and documents
+Site for Dealer interaction
+Display reports for New Vehicle Damage Reports
+Tracking for Dealer claims of damage to vehicle upon delivery
+The NICE/IEX Application data is used by the entire team.  Team runs audits for data corrections.
+Workflow
+Retired - Purpose Unknown
+Retired - Purpose Unknown
+Tracking for review in GLO meeting
+Tracking and Notification for Non OnStar member issues
+Business use to track and support meetings for items that are not shown on the GLO Launch Event Tool
+Tracking issue with Credit Card use for NON members
+Tracking Non Member Cases
+Communication from Advisor to business for Credit Card Charges to Non Members
+Retired - Purpose Unknown
+Retired - Purpose Unknown
+A report used to view a summary and details for Messaging in GME
+A report used to view a summary and details for Messaging in North America
+A report used to view a summary and details for Messaging in GMSA
+A report used to view a summary and details for Messaging in MEO
+Management wants to better understand the benefits of the conversion to Salesforce (OneCRM).
+An interim report for users to lookup OneCRM Case information until incorporated into individual reports.
+Built the query in NDE that OneCRM uses to integrate person data from IEX
+Retired - Purpose Unknown
+OnStar Button Triage
+Site for OnStar Mexico to store and share documents with suppliers
+Retired - Purpose Unknown
+This is like the CC Health of the Business Report, filtered for Stacey's lines of business with some additional information (Sales).  It provides a quick overview of the health of Stacey's business.
+SharePoint site to house Advisor tools and forms
+OnStar Universal Tool to correct issues with Members Accounts
+Support for Emerging Issues Meeting
+This Report is weekly Open , closed and created by Application .
+Provides a 1pm ET view of the OSTA data
+Tracking for issues
+Different types of triage Case load analysis
+NA
+Provides a view of the OUST Status data.
+Track Outbound Credit Card Capture Events
+OnStar Vehicle Diagnostic Triage - GMMEO
+Troubleshooting triage - GMMEO
+Ensure non-Salesforce users, such as GM Leadership and legal teams, can access Product Allegation data for business decisions, budget control, executive reporting, and providing insights to Safety Analytics and Engineering. Currently, they use OBIEE for Siebel-related reports, but with OBIEE being phased out, it's essential to maintain their access to this data outside of OneCRM.
+Weekly report capturing total Corrective Action Volumes submitted by Specific Catalog Groups for both Carline and Truck, along with total cases for the respective Catalog Group.
+Snapshot  of cases in escalation and still pending in escalation.
+Retired - Purpose Unknown
+Report allows ParTech the ability to identify top call drivers and reviewing for opportunity in creation of automated TTV messages and eliminating manually answering redundant calls.
+Survey used post A-Bay in training
+Tool to determine if a repair or replace Transmission for Dealer Center Advisors
+A tool for  maintenance of all Product fields/tables and serves as the source for E-CoE Product Run Book, E-CoE Data Sources, E-CoE Product Data Sources, and E-CoE Audits.
+A SharePoint List containing all the re.  Used for E-CoE reporting.
+Track PSAP and Roadside Escalations
+Track issues with PSAP
+Provide PSAP phone number for Emergency Advisors
+Active tracking
+In order to remain in compliance VSOE needs to be able to continue to pull reporting from outreach campaigns in order to gauge the efficacy of these campaigns and maintain accurate business intelligence
+Retired - Purpose Unknown
+Retired - Purpose Unknown
+Retired - Purpose Unknown
+Provide a list of active packages to the renewal issue trackers
+Deliver renewal issues to business for fulfillment
+Deliver renewal issues to business for fulfillment
+Reporting needed for non One-CRM users looking to gain insights into reporting on Repurchase cases worked by the Business Resource Center (BRC). This may include GM legal employees or other GM leadership who do not work in the contact centers and have no access to OneCRM
+Advisor request form for assistance.
+Provide communications between Advisors on the phones with Members and the business team that can fulfill the Members request
+The purpose of this report is to show where there are inefficiencies in the RVDC process. It will be very similar to the cases at risk reports
+Track sales plans to be used in forms
+Used to track Santa
+used to track Santa
+Used for tracking Santa
+The microchip shortage has led to a situation where VINs are either "Build Shy," meaning they are built in the plant, but some low priority microchips are omitted or "Sold Shy" with omitted microchips. This has led to a situation where customers have eith
+Loads the Oozie Workflow for Sell Shy
+Tracker for Brazil
+Retired - Purpose Unknown
+Retired - Purpose Unknown
+Retired - Purpose Unknown
+Smart Phone App Error Tool
+Smart Phone Error Code Troubleshooting tool
+Smart Phone App Error Tool
+Social Media Messaging Threshold
+Retired - Purpose Unknown
+Tracking and reporting issue involved with Safety
+Retired - Purpose Unknown
+Onstar Service Delivery Records Request for Branded App
+Onstar Service Delivery Records Request for Branded App
+Onstar Account Details Records Request for Branded App
+Crash Inormation
+location track when the call received
+location track when the call received
+Onstar Records Request for Branded App
+Onstar Records Request for Branded App
+Onstar Records Request for Branded App
+OnStar Records Request for VID
+OnStar Records Request for VID
+Combines all SRT reports into a single DataBricks report/menu to provide GM Legal with a easy method to pull data and create a PDF for a court request.
+Site for SSO document sharing
+Retired - Purpose Unknown
+Retired - Purpose Unknown
+Retired - Purpose Unknown
+The form will collect all Dealer requests for removal of Super Cruise cost and functionality on new vehicles to help make a sale, with customer approval
+Retired - Purpose Unknown
+Retired - Purpose Unknown
+Includes invoicing for Canada Care Invoice, Concentrix PH SES and PH Care Invoices, Invoice Provess, MCI Invoice, PH SES Invoice, and others.
+Track Stolen Vehicles
+Temporary fix until new report is created
+Reporting Metrics generated by the TAC DCM audit process
+Quality Evavluation report for Austin Center
+Quality Evavluation report for Charlotte Center
+Quality Evavluation report for Makati Center
+Quality Evavluation report for Manila Center
+Quality Evavluation report for Mexico Center
+Quality Evavluation report for Oshawa Center
+Quality Evavluation report for Saginaw Center
+Quality Evavluation report for Warren Center
+NA
+Track and assign training classes
+Display Training Clases current and upcoming
+The report is about Daily & Monthly view of Dealer wise traige resolution rate for cases and triages.
+Retired - Purpose Unknown
+Lookup VIN for DPRO
+Retired - Purpose Unknown
+Retired - Purpose Unknown
+Wi-Fi Pairing Tool
+Triage Wi-Fi Tool - GMMEO
+Intraday IEX Entperise Business Perforamance Report
+
+
+Product Type
+PowerBI Cloud
+PowerBI Cloud
+PowerBI Cloud
+PowerBI Cloud
+PowerBI Cloud
+PowerBI Cloud
+PowerBI Cloud
+PowerBI Cloud
+PowerBI Cloud
+PowerBI Cloud
+PowerBI Cloud
+Cognos
+Cognos
+Cognos
+SharePoint Form
+SharePoint Tool
+SharePoint List
+SharePoint List
+SharePoint List
+SharePoint List
+SharePoint List
+SharePoint List
+SharePoint List
+SharePoint List
+MS Access DB
+PowerBI Cloud
+PowerBI Cloud
+SharePoint Tool
+SharePoint Form
+SharePoint Site
+SharePoint Form
+SharePoint Form
+PowerBI Cloud
+SharePoint Form
+SharePoint Form
+SharePoint Form
+SharePoint Form
+SharePoint Support
+PowerBI Cloud
+SharePoint Tool
+PowerBI Cloud
+PowerBI On-Prem
+PowerBI Cloud
+Cognos
+Cognos
+Cognos
+PowerBI Cloud
+PowerBI Cloud
+PowerBI Cloud
+Data Workflow
+PowerBI Cloud
+PowerBI Cloud
+PowerBI Cloud
+PowerBI Cloud
+PowerBI Cloud
+PowerBI Cloud
+PowerBI Cloud
+PowerBI On-Prem
+PowerBI On-Prem
+PowerBI Cloud
+PowerBI Cloud
+PowerBI On-Prem
+PowerBI On-Prem
+PowerBI On-Prem
+PowerBI Cloud
+PowerBI On-Prem
+Cognos
+PowerBI On-Prem
+PowerBI On-Prem
+PowerBI Cloud
+PowerBI Cloud
+SharePoint Form
+Application
+SharePoint Tool
+SharePoint Tool
+SharePoint Support
+SharePoint Site
+Cognos
+SharePoint Site
+PowerBI Cloud
+PowerBI Cloud
+PowerBI Cloud
+PowerBI Cloud
+Excel
+PowerBI Cloud
+PowerBI Cloud
+SharePoint Form
+SharePoint Form
+SharePoint Form
+SharePoint Tool
+SharePoint Tool
+SharePoint Form
+SharePoint Form
+SharePoint Form
+SharePoint Form
+SharePoint Form
+PowerBI Cloud
+PowerBI Cloud
+Data Workflow
+Data Workflow
+PowerBI Cloud
+PowerBI Cloud
+PowerBI Cloud
+SharePoint List
+SharePoint List
+SharePoint List
+Data Workflow
+Data Workflow
+Data Workflow
+Data Workflow
+Data Workflow
+Data Workflow
+Data Workflow
+Data Workflow
+Data Workflow
+Data Workflow
+Data Workflow
+Data Workflow
+Data Workflow
+Data Workflow
+SharePoint Tool
+SharePoint Site
+Data Workflow
+SharePoint List
+SharePoint Tool
+SharePoint Tool
+PowerBI Cloud
+SharePoint Site
+Application
+SharePoint Form
+SharePoint Tool
+SharePoint List
+SharePoint Site
+PowerBI Cloud
+Viva Engage Site
+MS Access DB
+SharePoint Site
+SharePoint Form
+SharePoint Tool
+SharePoint Form
+SharePoint Tool
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+PowerBI Cloud
+PowerBI Cloud
+PowerBI Cloud
+Cognos
+Cognos
+Cognos
+Teams Site
+Teams Site
+SharePoint Form
+PowerBI Cloud
+SharePoint Site
+SharePoint Site
+Data Workflow
+SharePoint Tool
+PowerBI Cloud
+SharePoint Form
+Data Workflow
+SharePoint Site
+SharePoint Form
+SharePoint Form
+SharePoint Tool
+Data Workflow
+SharePoint Site
+SharePoint Form
+PowerBI Cloud
+SharePoint Tool
+SharePoint Support
+SharePoint Form
+SharePoint Tool
+PowerBI On-Prem
+SharePoint List
+MS Access DB
+SharePoint List
+SharePoint List
+SharePoint List
+SharePoint List
+SharePoint List
+SharePoint Site
+SharePoint List
+PowerBI Cloud
+SharePoint List
+SharePoint List
+SharePoint List
+SharePoint List
+PowerBI Cloud
+SharePoint List
+SharePoint List
+SharePoint List
+SharePoint List
+SharePoint List
+SharePoint List
+SharePoint List
+SharePoint List
+SharePoint List
+MS Access DB
+PowerBI Cloud
+SharePoint List
+SharePoint List
+SharePoint List
+PowerBI Cloud
+SharePoint Tool
+SharePoint Form
+SharePoint List
+SharePoint Form
+PowerBI Cloud
+SharePoint Form
+SharePoint List
+SharePoint Form
+SharePoint Form
+SharePoint Form
+SharePoint Tool
+PowerBI Cloud
+SharePoint Tool
+SharePoint Tool
+SharePoint List
+SharePoint List
+SharePoint List
+SharePoint List
+Teams Site
+PowerBI Cloud
+Data Workflow
+SharePoint Form
+SharePoint Form
+Data Workflow
+PowerBI Cloud
+SharePoint Form
+SharePoint Form
+SharePoint Form
+Excel
+SharePoint Form
+SharePoint Form
+Data Workflow
+SharePoint List
+SharePoint Site
+Teams Site
+Excel
+SharePoint Site
+Excel
+PowerBI Cloud
+PowerBI Cloud
+MS Access DB
+SharePoint List
+SharePoint Site
+SharePoint Site
+SharePoint Tool
+PowerBI Cloud
+PowerBI Cloud
+SharePoint Form
+SharePoint Form
+SharePoint List
+SharePoint Tool
+Teams Site
+SharePoint Tool
+SharePoint Tool
+SharePoint Tool
+SharePoint Form
+SharePoint Tool
+SharePoint Site
+SharePoint Form
+Data Workflow
+SharePoint Tool
+SharePoint Tool
+PowerBI Cloud
+MS Access DB
+PowerBI Cloud
+SharePoint List
+SharePoint List
+SharePoint List
+SharePoint List
+SharePoint List
+SharePoint Site
+SharePoint List
+PowerBI Cloud
+SharePoint List
+SharePoint Site
+SharePoint Site
+SharePoint Site
+SharePoint Site
+PowerBI Cloud
+SharePoint List
+PowerBI Cloud
+SharePoint List
+MS Access DB
+SharePoint Form
+PowerBI On-Prem
+PowerBI On-Prem
+PowerBI On-Prem
+PowerBI On-Prem
+Data Workflow
+Data Workflow
+PowerBI Cloud
+MS Access DB
+Excel
+Excel
+Data Workflow
+Excel
+Documentation
+Data Workflow
+SharePoint Form
+SharePoint Form
+SharePoint Tool
+SharePoint Tool
+SharePoint Tool
+PowerBI Cloud
+Data Workflow
+PowerBI Cloud
+PowerBI Cloud
+SharePoint Form
+SharePoint Site
+SharePoint Site
+PowerBI Cloud
+Data Workflow
+PowerBI Cloud
+Data Workflow
+SharePoint Tool
+SharePoint Form
+SharePoint Form
+PowerBI Cloud
+SharePoint Form
+SharePoint Form
+SharePoint Tool
+SharePoint Tool
+SharePoint Form
+PowerBI Cloud
+Cognos
+PowerBI Cloud
+PowerBI Cloud
+Cognos
+Documentation
+SharePoint Form
+SharePoint Site
+SharePoint Site
+PowerBI Cloud
+SharePoint Form
+Application
+Data Workflow
+SharePoint Form
+SharePoint Site
+SharePoint Form
+SharePoint List
+SharePoint List
+SharePoint List
+SharePoint Form
+SharePoint Form
+SharePoint Form
+SharePoint Tool
+PowerBI Cloud
+PowerBI Cloud
+PowerBI Cloud
+PowerBI Cloud
+PowerBI Cloud
+PowerBI Cloud
+Data Workflow
+SharePoint Tool
+SharePoint Tool
+SharePoint Site
+SharePoint Site
+PowerBI Cloud
+SharePoint Site
+SharePoint Tool
+SharePoint Site
+PowerBI On-Prem
+PowerBI Cloud
+SharePoint Form
+PowerBI Cloud
+Cognos
+Cognos
+SharePoint Form
+SharePoint Tool
+SharePoint Tool
+PowerBI Cloud
+Cognos
+Cognos
+Cognos
+Cognos
+SharePoint Form
+SharePoint Tool
+MS Access DB
+SharePoint List
+SharePoint Form
+SharePoint Form
+SharePoint Tool
+SharePoint Form
+PowerBI Cloud
+SharePoint Form
+SharePoint Form
+SharePoint Form
+SharePoint List
+SharePoint Form
+SharePoint Form
+PowerBI Cloud
+SharePoint Form
+SharePoint Form
+PowerBI Cloud
+SharePoint Form
+SharePoint Tool
+SharePoint Tool
+SharePoint Tool
+PowerBI On-Prem
+Data Workflow
+SharePoint Form
+SharePoint Form
+PowerBI Cloud
+SharePoint Form
+SharePoint Tool
+SharePoint Tool
+SharePoint Tool
+SharePoint Form
+SharePoint Form
+SharePoint Form
+SharePoint Form
+Cognos
+PowerBI Cloud
+Cognos
+Cognos
+Cognos
+PowerBI Cloud
+Cognos
+Cognos
+Cognos
+Cognos
+PowerBI Cloud
+Other (See Comments)
+SharePoint Site
+PowerBI Cloud
+SharePoint List
+SharePoint Form
+SharePoint Form
+SharePoint Form
+SharePoint Form
+Excel
+SharePoint Form
+Excel
+PowerBI Cloud
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+Cognos
+PowerBI Cloud
+SharePoint Form
+PowerBI Cloud
+PowerBI Cloud
+SharePoint Form
+Cognos
+SharePoint Form
+SharePoint Tool
+SharePoint Tool
+SharePoint Tool
+Excel
+
+
+Product Sub-Type
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+Tool
+Report
+Report
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+Report
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+Report
+SharePoint
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Workflow
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+SharePoint
+GM Application
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+Report
+SharePoint
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+Report
+Report
+Workflow
+Workflow
+Report
+Report
+Report
+Report
+SharePoint
+SharePoint
+Workflow
+Workflow
+Workflow
+Workflow
+Workflow
+Workflow
+Workflow
+Workflow
+Workflow
+Workflow
+Workflow
+Workflow
+Workflow
+Workflow
+SharePoint
+SharePoint
+Workflow
+SharePoint
+SharePoint
+SharePoint
+Report
+SharePoint
+Tool
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+Report
+Tool
+Tool
+SharePoint
+Report
+SharePoint
+SharePoint
+SharePoint
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Tool
+Tool
+SharePoint
+Report
+SharePoint
+SharePoint
+Workflow
+SharePoint
+Report
+SharePoint
+Workflow
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+Workflow
+SharePoint
+SharePoint
+Report
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+Report
+SharePoint
+Tool
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+Report
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+Report
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+Tool
+Report
+SharePoint
+SharePoint
+SharePoint
+Report
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+Report
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+Report
+Report
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+Tool
+Report
+Workflow
+SharePoint
+SharePoint
+Workflow
+Report
+SharePoint
+SharePoint
+SharePoint
+Report
+SharePoint
+SharePoint
+Workflow
+SharePoint
+SharePoint
+Tool
+Report
+SharePoint
+Report
+Report
+Report
+Tool
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+Report
+Report
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+Tool
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+Workflow
+SharePoint
+SharePoint
+Report
+Tool
+Report
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+Report
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+Report
+SharePoint
+Report
+SharePoint
+Tool
+SharePoint
+Report
+Report
+Report
+Report
+Workflow
+Workflow
+Report
+Tool
+Report
+Report
+Workflow
+Report
+Documentation
+Workflow
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+Report
+Workflow
+Report
+Report
+SharePoint
+SharePoint
+SharePoint
+Report
+Workflow
+Report
+Workflow
+SharePoint
+SharePoint
+SharePoint
+Report
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+Report
+Report
+Report
+Report
+Report
+Documentation
+SharePoint
+SharePoint
+SharePoint
+Report
+SharePoint
+Tool
+Workflow
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+Report
+Report
+Report
+Report
+Report
+Report
+Workflow
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+Report
+SharePoint
+SharePoint
+SharePoint
+Report
+Report
+SharePoint
+Report
+Report
+Report
+SharePoint
+SharePoint
+SharePoint
+Report
+Report
+Report
+Report
+Report
+SharePoint
+SharePoint
+Tool
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+Report
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+Report
+SharePoint
+SharePoint
+Report
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+Report
+Workflow
+SharePoint
+SharePoint
+Report
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+SharePoint
+Report
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+Report
+SharePoint
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+Report
+SharePoint
+Report
+Report
+SharePoint
+Report
+SharePoint
+SharePoint
+SharePoint
+SharePoint
+Report
+
+
+Supporting Team
+E-CoE Ops Team
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+E-CoE Ops Team
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+E-CoE Ops Team
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+E-CoE Ops Team
+Game of Phones
+E-CoE Ops Team
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+CC Forecasting Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+Game of Phones
+E-CoE Ops Team
+Game of Phones
+Game of Phones
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+E-CoE Ops Team
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+Game of Phones
+E-CoE Ops Team
+Game of Phones
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+E-CoE Ops Team
+
+
+Primary Support Contact
+Steve Johnson
+Ashu Gupta
+Ashu Gupta
+Ashu Gupta
+Ashu Gupta
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Ashu Gupta
+Ashu Gupta
+Bhanu Kanamarlapudi
+Ashu Gupta
+Sachin Sharma
+Edward Price
+Edward Price
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Sachin Sharma
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Abhishek Singh
+Abhishek Singh
+Vineeth Raja
+Abhishek Singh
+Abhishek Singh
+Sachin Sharma
+Vineeth Raja
+Ashu Gupta
+Vineeth Raja
+Sachin Sharma
+Sachin Sharma
+Ashu Gupta
+Ashu Gupta
+Abhishek Singh
+Sachin Sharma
+Ashu Gupta
+Sachin Sharma
+Abhishek Singh
+Abhishek Singh
+Sachin Sharma
+Ashu Gupta
+Abhishek Singh
+Sachin Sharma
+Ashu Gupta
+Vineeth Raja
+Vineeth Raja
+Vineeth Raja
+Vineeth Raja
+Vineeth Raja
+Sachin Sharma
+Ashu Gupta
+Jonathan Rickner
+Steve Johnson
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Abhishek Singh
+Edward Price
+Ashu Gupta
+Ashu Gupta
+Abhishek Singh
+Sachin Sharma
+Vineeth Raja
+Vineeth Raja
+Abhishek Singh
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Vineeth Raja
+Vineeth Raja
+Vineeth Raja
+Vineeth Raja
+Vineeth Raja
+Vineeth Raja
+Vineeth Raja
+Other (See Comments)
+Steve Johnson
+Steve Johnson
+Vineeth Raja
+Vineeth Raja
+Abhishek Singh
+Abhishek Singh
+Abhishek Singh
+Abhishek Singh
+Abhishek Singh
+Abhishek Singh
+Abhishek Singh
+Abhishek Singh
+Vineeth Raja
+Vineeth Raja
+Vineeth Raja
+Abhishek Singh
+Edward Price
+Edward Price
+Sachin Sharma
+Edward Price
+Edward Price
+Edward Price
+Nicholas Acton
+Edward Price
+Jonathan Rickner
+Edward Price
+Edward Price
+Steve Johnson
+Edward Price
+Nicholas Acton
+Steve Johnson
+Steve Johnson
+Edward Price
+Jonathan Rickner
+Edward Price
+Edward Price
+Edward Price
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Abhishek Singh
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Edward Price
+Edward Price
+Edward Price
+Sachin Sharma
+Edward Price
+Edward Price
+Bhanu Kanamarlapudi
+Edward Price
+Abhishek Singh
+Edward Price
+Sachin Sharma
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Sachin Sharma
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Abhishek Singh
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Bhanu Kanamarlapudi
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Steve Johnson
+Steve Johnson
+Edward Price
+Nicholas Acton
+Ashu Gupta
+Vineeth Raja
+Edward Price
+Edward Price
+Sachin Sharma
+Abhishek Singh
+Edward Price
+Edward Price
+Edward Price
+Vineeth Raja
+Edward Price
+Edward Price
+Abhishek Singh
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Nicholas Acton
+Edward Price
+Nicholas Acton
+Other (See Comments)
+Bhanu Kanamarlapudi
+Nicholas Acton
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Steve Johnson
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Steve Johnson
+Steve Johnson
+Ashu Gupta
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Edward Price
+Bhanu Kanamarlapudi
+Bhanu Kanamarlapudi
+Bhanu Kanamarlapudi
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Grace O'Malley
+Nicholas Acton
+Nicholas Acton
+Nicholas Acton
+Sachin Sharma
+Jonathan Rickner
+Jonathan Rickner
+Jonathan Rickner
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Bhanu Kanamarlapudi
+Sachin Sharma
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Abhishek Singh
+Abhishek Singh
+Steve Johnson
+Sachin Sharma
+Edward Price
+Edward Price
+Edward Price
+Vineeth Raja
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Abhishek Singh
+Abhishek Singh
+Bhanu Kanamarlapudi
+Bhanu Kanamarlapudi
+Bhanu Kanamarlapudi
+Steve Johnson
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Nicholas Acton
+Sachin Sharma
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Sachin Sharma
+Abhishek Singh
+Sachin Sharma
+Sachin Sharma
+Bhanu Kanamarlapudi
+Abhishek Singh
+Jonathan Rickner
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Steve Johnson
+Edward Price
+Edward Price
+Edward Price
+Vineeth Raja
+Vineeth Raja
+Edward Price
+Bhanu Kanamarlapudi
+Ashu Gupta
+Vineeth Raja
+Edward Price
+Edward Price
+Edward Price
+Abhishek Singh
+Abhishek Singh
+Vineeth Raja
+Steve Johnson
+Vineeth Raja
+Edward Price
+Edward Price
+Steve Johnson
+Steve Johnson
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Abhishek Singh
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Sachin Sharma
+Edward Price
+Edward Price
+Sachin Sharma
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Sachin Sharma
+Sachin Sharma
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Sachin Sharma
+Sachin Sharma
+Sachin Sharma
+Abhishek Singh
+Vineeth Raja
+Vineeth Raja
+Vineeth Raja
+Abhishek Singh
+Abhishek Singh
+Vineeth Raja
+Vineeth Raja
+Other (See Comments)
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Jonathan Rickner
+Edward Price
+Abhishek Singh
+Jonathan Rickner
+Ashu Gupta
+Ashu Gupta
+Ashu Gupta
+Ashu Gupta
+Ashu Gupta
+Ashu Gupta
+Ashu Gupta
+Ashu Gupta
+Ashu Gupta
+Edward Price
+Edward Price
+Abhishek Singh
+Edward Price
+Ashu Gupta
+Edward Price
+Edward Price
+Edward Price
+Edward Price
+Nicholas Acton
+
+
+Priority
+P3 - Medium
+P3 - Medium
+P2 - High
+P3 - Medium
+P2 - High
+P2 - High
+P4 - Low
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P2 - High
+P2 - High
+P2 - High
+Not Applicable
+P3 - Medium
+P4 - Low
+P4 - Low
+P4 - Low
+P4 - Low
+P4 - Low
+P4 - Low
+P4 - Low
+P4 - Low
+P4 - Low
+P2 - High
+P3 - Medium
+P3 - Medium
+Not Applicable
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+Not Applicable
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+Not Applicable
+P3 - Medium
+P2 - High
+Not Applicable
+P3 - Medium
+P2 - High
+Not Applicable
+Not Applicable
+P1 - Very High
+P2 - High
+P2 - High
+P3 - Medium
+P3 - Medium
+P2 - High
+P3 - Medium
+P3 - Medium
+P2 - High
+P2 - High
+P2 - High
+Not Applicable
+Not Applicable
+P3 - Medium
+P1 - Very High
+Not Applicable
+Not Applicable
+Not Applicable
+P3 - Medium
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P4 - Low
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P4 - Low
+P2 - High
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P2 - High
+P3 - Medium
+P3 - Medium
+Not Applicable
+P3 - Medium
+P3 - Medium
+Not Applicable
+P3 - Medium
+P3 - Medium
+P3 - Medium
+Not Applicable
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P1 - Very High
+Not Applicable
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+Not Applicable
+P3 - Medium
+P3 - Medium
+Not Applicable
+P3 - Medium
+P3 - Medium
+Not Applicable
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P4 - Low
+P3 - Medium
+P1 - Very High
+P3 - Medium
+P4 - Low
+P3 - Medium
+Not Applicable
+P3 - Medium
+P3 - Medium
+P3 - Medium
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+P3 - Medium
+P3 - Medium
+P3 - Medium
+Not Applicable
+Not Applicable
+Not Applicable
+P3 - Medium
+P3 - Medium
+Not Applicable
+P3 - Medium
+Not Applicable
+P3 - Medium
+P3 - Medium
+Not Applicable
+P1 - Very High
+P3 - Medium
+Not Applicable
+P3 - Medium
+P3 - Medium
+P3 - Medium
+Not Applicable
+P3 - Medium
+P3 - Medium
+P3 - Medium
+Not Applicable
+Not Applicable
+P3 - Medium
+Not Applicable
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P4 - Low
+P3 - Medium
+P4 - Low
+P4 - Low
+P4 - Low
+P4 - Low
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P4 - Low
+P4 - Low
+P3 - Medium
+P3 - Medium
+P4 - Low
+P4 - Low
+P3 - Medium
+P4 - Low
+P4 - Low
+P4 - Low
+P4 - Low
+P4 - Low
+P4 - Low
+P4 - Low
+P3 - Medium
+P3 - Medium
+Not Applicable
+P3 - Medium
+P3 - Medium
+P3 - Medium
+Not Applicable
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+Not Applicable
+P3 - Medium
+P3 - Medium
+P2 - High
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P4 - Low
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+Not Applicable
+P3 - Medium
+P3 - Medium
+P2 - High
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+Not Applicable
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+Not Applicable
+P3 - Medium
+Not Applicable
+P3 - Medium
+Not Applicable
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+Not Applicable
+P3 - Medium
+P4 - Low
+P3 - Medium
+P4 - Low
+P4 - Low
+P4 - Low
+P3 - Medium
+Not Applicable
+Not Applicable
+P4 - Low
+P3 - Medium
+P4 - Low
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+P3 - Medium
+P4 - Low
+P3 - Medium
+P4 - Low
+P4 - Low
+P3 - Medium
+P2 - High
+P1 - Very High
+P2 - High
+Not Applicable
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+Not Applicable
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+Not Applicable
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P2 - High
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P4 - Low
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P4 - Low
+P3 - Medium
+Not Applicable
+Not Applicable
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+Not Applicable
+Not Applicable
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P1 - Very High
+P3 - Medium
+P3 - Medium
+Not Applicable
+P3 - Medium
+P3 - Medium
+Not Applicable
+P1 - Very High
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P1 - Very High
+P3 - Medium
+P3 - Medium
+P2 - High
+P3 - Medium
+Not Applicable
+P3 - Medium
+P3 - Medium
+P3 - Medium
+Not Applicable
+P3 - Medium
+P3 - Medium
+Not Applicable
+Not Applicable
+P3 - Medium
+P3 - Medium
+P4 - Low
+P4 - Low
+P2 - High
+P3 - Medium
+P3 - Medium
+P3 - Medium
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+P3 - Medium
+P3 - Medium
+P3 - Medium
+Not Applicable
+P2 - High
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+Not Applicable
+Not Applicable
+P3 - Medium
+Not Applicable
+Not Applicable
+Not Applicable
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+Not Applicable
+P3 - Medium
+Not Applicable
+P2 - High
+Not Applicable
+P2 - High
+P2 - High
+P2 - High
+Not Applicable
+P2 - High
+P2 - High
+P2 - High
+P2 - High
+Not Applicable
+P2 - High
+P3 - Medium
+Not Applicable
+Not Applicable
+Not Applicable
+P3 - Medium
+Not Applicable
+Not Applicable
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P3 - Medium
+P2 - High
+Not Applicable
+P3 - Medium
+Not Applicable
+Not Applicable
+P3 - Medium
+P3 - Medium
+P3 - Medium
+
+
+Refresh Cadence
+Daily
+Daily
+Daily
+Monthly
+Daily
+Intraday
+Daily
+Daily
+Daily
+Monthly
+Daily
+Intraday
+Daily
+Daily
+On Demand
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+Weekly
+Daily
+Daily
+Intraday
+On Demand
+On User Entry
+On User Entry
+On User Entry
+Daily
+Daily
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+
+On User Entry
+Daily
+
+Weekly
+Weekly
+
 
 Daily
 Daily
 Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+
+
+Daily
+Daily
+
+
+
+Daily
+
+
+
+
+Daily
+Daily
+Daily
+Not Applicable
+On User Entry
+On User Entry
+On User Entry
+On Demand
+Daily
+On User Entry
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+On User Entry
+
+On User Entry
+On User Entry
+
+On User Entry
+On User Entry
+On User Entry
+
+On User Entry
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+On User Entry
+On User Entry
+On User Entry
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+Daily
+
+On User Entry
+Daily
+On Demand
+On User Entry
+On User Entry
 
 On Demand
 Daily
+On User Entry
+On User Entry
+On User Entry
 On Demand
 Daily
+Not Applicable
+Not Applicable
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Daily
 Daily
 Daily
-Daily
-Daily
-Daily
-Daily
-Daily
-Daily
+
+
+
 On Demand
 On Demand
+
+Daily
+
+On User Entry
+Intraday
+
+Weekdays
+On User Entry
+
+On User Entry
+On User Entry
+On User Entry
+
+Daily
+On User Entry
+On User Entry
+
+
+On User Entry
+
+On User Entry
+Daily
+On User Entry
+Not Applicable
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+Not Applicable
+On User Entry
+Monthly
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+Daily
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+Not Applicable
+Daily
+On User Entry
+On User Entry
+On User Entry
+Intraday
+On User Entry
+
+On User Entry
+On User Entry
+Weekly
+On User Entry
+On User Entry
+
+On User Entry
+On User Entry
+On Demand
+Monthly
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+Not Applicable
+Daily
+On Demand
+
+On User Entry
 Daily
 Daily
+On User Entry
+On User Entry
+On User Entry
+Daily
+On User Entry
+On User Entry
+Daily
+On User Entry
+On User Entry
+Not Applicable
+Intraday
+On User Entry
+Intraday
+Daily
+Intraday
+Intraday
+On User Entry
+On User Entry
+On User Entry
+On User Entry
 Daily
 Daily
+On User Entry
+
+On User Entry
+
+Not Applicable
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+On Demand
+On User Entry
+On Demand
+On User Entry
+
+Daily
+Not Applicable
+Daily
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+
+On User Entry
+On Demand
+On User Entry
+
+
+
+
+On Demand
+On User Entry
+On Demand
+On User Entry
+Not Applicable
+On User Entry
+Intraday
+Intraday
+Intraday
+
 Daily
 Daily
-Daily
-Daily
-Daily
-Daily
+Monthly
+On Demand
 Daily
 Daily
 Daily
 Weekly
+Not Applicable
+On Demand
+
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+Monthly
+Daily
+
+Daily
+Not Applicable
+On Demand
+On Demand
+Intraday
+Daily
+Daily
+Daily
+On User Entry
+On User Entry
+On User Entry
+Daily
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+Monthly
+Monthly
+Monthly
+Monthly
+Monthly
+Not Applicable
+On User Entry
+On User Entry
+On User Entry
+Daily
+On User Entry
+Not Applicable
+Daily
+
+
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+
+
+Daily
+Daily
+Daily
+Daily
+Monthly
+Daily
+Not Applicable
+
+On User Entry
+On User Entry
+
+Daily
+On User Entry
+On User Entry
+On User Entry
+Daily
+Daily
+On User Entry
+Intraday
+On Demand
+
+On User Entry
+On User Entry
+On User Entry
 Daily
 Weekly
 Weekly
+Not Applicable
+
+On User Entry
+On User Entry
+Not Applicable
+On User Entry
+On Demand
+On User Entry
+On User Entry
+On User Entry
 Daily
+
+
+
+On User Entry
+On User Entry
+On User Entry
 Daily
+On Demand
+On User Entry
 Daily
-Daily
-Daily
-Daily
-Daily
-Daily
-Daily
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+
+
+On User Entry
+
+
+
+On User Entry
+On User Entry
+On User Entry
+On User Entry
+
+On User Entry
+
+On Demand
+
 On Demand
 On Demand
 On Demand
-Monthly
-Monthly
-Monthly
-Monthly
+
+On Demand
+On Demand
+On Demand
+On Demand
+
+On Demand
+On User Entry
+
+On User Entry
+
+On Demand
+
+
 Weekly
+On User Entry
+Daily
+Other (See Comments)
 Daily
 Daily
 Daily
@@ -181,132 +5761,1060 @@ Daily
 Daily
 Daily
 Daily
-Daily
-Daily
-Daily
-Monthly
-Daily
-Daily
-Daily
-Daily
-Daily
-Daily
-Daily
-Daily
-Daily
-Daily
-Daily
-Daily
-Daily
-Daily
-Daily
-Daily
-Daily
-Daily
-Daily 3 times
-Daily 3 times
-No Schedule
-No Schedule
+On User Entry
+On User Entry
+Intraday
 
+On Demand
+
+
+On User Entry
+On User Entry
+On Demand
+
+
+Primary Business Owner
+Steve Johnson
+Bonnie Tytler
+Melissa Compton
+Melissa Compton
+Melissa Compton
+Melissa Compton
+Melissa Compton
+Melissa Compton
+Sarah Beaudry
+Michael Highland
+Bonnie Tytler
+Mirna Neves
+Marc Gramlich
+Mirna Neves
+Marc Gramlich
+Edward Price
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Michelle Mock
+Joseph Spezia
+Joseph Spezia
+Joseph Spezia
+Edward Price
+Bridget McHugh
+Bridget McHugh
+Christopher Rennie
+Dave Rymas
+Christopher Rennie
+Cathy St-Amour
+Joseph Spezia
+Edward Price
+Christine Darbonne
+Edward Price
+Michael Quiroz
+Bridget McHugh
+Evan Sawaya
+Evan Sawaya
+Evan Sawaya
+Evan Sawaya
+Michael Quiroz
+Michael Quiroz
+Greg Wilk
+Greg Wilk
+Greg Wilk
+Evan Sawaya
+Greg Wilk
+Michael Quiroz
+Meghan Pastoria
+Michelle Mock
+Michelle Mock
+Kyle Gassner
+Kyle Gassner
+Anna Chenet
+Michelle Mock
+Greg Wilk
+Kyle Gassner
+Anna Chenet
+Michelle Mock
+Michael Quiroz
+Anna Chenet
+Kyle Gassner
+Donald Corbin
+Nathan Aguilar
+Nicholas Acton
+Bridget McHugh
+Steve Johnson
+Christine Darbonne
+Engy Naguib (إنچي نجيب)
+Barbara Santos
+Anna Chenet
+Kimberley Lukas
+No Owner Needed
+Michelle Mock
+Michelle Mock
+Dave Rymas
+Dave Rymas
+Christopher Hightower
+Bonnie Tytler
+Michael Highland
+Barbara Santos
+Emilia Llanos Campana
+Ojus Narayana
+Christopher Rennie
+Christopher Rennie
+Barbara Santos
+Barbara Santos
+ADAM ROWDEN
+Donald Corbin
+Marc Gramlich
+Michelle Mock
+Michelle Mock
+Ankit Barman
+Ankit Barman
+Michelle Mock
+Michelle Mock
+Greg Wilk
+Nicholas Acton
+Steve Johnson
+Steve Johnson
+Ankit Barman
+Ankit Barman
+Ankit Barman
+Ankit Barman
+Ankit Barman
+Ankit Barman
+Ankit Barman
+Ankit Barman
+Ankit Barman
+Ankit Barman
+Ankit Barman
+Ankit Barman
+Ankit Barman
+Ankit Barman
+Barbara Santos
+Alisa Boyce Wallace
+No Owner Needed
+Harrison Stewart
+Barbara Santos
+Barbara Santos
+Nicholas Acton
+Jorge Benitez
+Brian Conley
+Christopher Rennie
+Peter Magda
+Steve Johnson
+Nicholas Acton
+Neelie O'Connor
+Nicholas Acton
+Steve Johnson
+Katja Seaton
+Nick Acton
+Christopher Rennie
+Ojus Narayana
+Engy Naguib (إنچي نجيب)
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Meghan Pastoria
+Elizabeth Heusey
+Elizabeth Heusey
+Mary Ann Adams
+Bonnie Tytler (bonnie.tytler@gm.com)
+Mary Ann Adams
+Ruby Hilton
+No Owner Needed
+Kristi Bailey
+Nicholas Acton
+Julie Campbell
 Retired
-Daily
-Daily
-Daily
+Raymond Dempz
+Christopher Rennie
+Barbara Santos
+Joshua Blondin
+No Owner Needed
+Leonard Osinski
+Evan Sawaya
+Michael Solomon (He/him/his)
+Joshua Blondin
+Cathy St-Amour
+Ruby Hilton
+Cathy St-Amour
+Carrie King
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Nicholas Acton
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Nicholas Acton
+Steve Johnson
+Need a Primary Business Owner
+Ruby Hilton
+Ojus Narayana
+Ruby Hilton
+Mary Ann Adams
+Ojus Narayana
+Ojus Narayana
+Ruby Hilton
+Ruby Hilton
+Melissa Compton
+Ruby Hilton
+Ojus Narayana
+Corey Broyles
+Gilbert Vaknin
+Gilbert Vaknin
+Gilbert Vaknin
+Gilbert Vaknin
+Rory Urbin
+Steve Johnson
+Steve Johnson
+Nicholas Acton
+Nicholas Acton
+Dave Rymas
+David Oliver
+Paige Raiford
+Engy Naguib (إنچي نجيب)
+Ankit Barman
+Salvador Barba
+Ojus Narayana
+Engy Naguib (إنچي نجيب)
+Jennifer Slater
+Christopher Hightower
+Barbara Santos
+Barbara Santos
+Updiks Campbell
+Steve Johnson
+Nicholas Acton
+Nicholas Acton
+Nicholas Acton
+Edward Price
+Nicholas Acton
+Brandon Ross
+Nicholas Acton
+Nicholas Acton
+Christopher Rennie
+Edward Price
+Kyle Ellard
+Raymond Dempz
+Raymond Dempz
+Raymond Dempz
+Nikki Dunlap
+Edward Price
+Jason Butler
+Jason Butler
+Nicholas Acton
+Engy Naguib (إنچي نجيب)
+Barbara Santos
+Barbara Santos
+Anna Chenet
+Peter Magda
+Edward Price
+Jason Butler
+Brandon Ross
+Cathy St-Amour
+Nikki Dunlap
+Steve Johnson
+Nicholas Acton
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Nicholas Acton
+Steve Johnson
+Nicholas Acton
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Steve Johnson
+Theodore Dy
+Mirna Neves
+Mirna Neves
+Mirna Neves
+Mirna Neves
+No Owner Needed
+No Owner Needed
+Grace O'Malley
+Nicholas Acton
+Nicholas Acton
+Nicholas Acton
+No Owner Needed
+Jon Rickner
+Jon Rickner
+Jon Rickner
+Chris Fetty
+Engy Naguib (إنچي نجيب)
+Engy Naguib (إنچي نجيب)
+Barbara Santos
+Emilia Llanos Campana
+Robin A Cagle
+No Owner Needed
+Cece Simmons
+Raymond Dempz
+Michael Pearson
+Gareth Evans
+Gareth Events
+Bonnie Tytler
+Meghan Pastoria
+Brittany Nichols
+Lydia Shepard
+Peter Magda
+Rory Urbin
+Rory Urbin
+Nicholas Acton
+Christopher Rennie
+Kaitlynn Baksa
+Engy Naguib (إنچي نجيب)
+Christopher Rennie
+Donald Corbin
+Meghan Pastoria
+Meghan Pastoria
+Nicholas Acton
+Bonnie Tytler
+Bonnie Tytler
+Steve Johnson
+Christopher Rennie
+Nicholas Acton
+Evan Sawaya
+Evan Sawaya
+Evan Sawaya
+Nicholas Acton
+No Owner Needed
+Jacob Rutherford
+Nikki Dunlap
+Nikki Dunlap
+Christopher Rennie
+Nikki Dunlap
+Rory Urban
+Christopher Rennie
+Rory Urbin
+Tyler Mrowczynski
+Peter Magda
+Dyane Roy
+Dyane Roy
+Dyane Roy
+Dyane Roy
+Nicholas Acton
+Steve Johnson
+Margaret Raddatz
+Tyler Mrowczynski
+Engy Naguib (إنچي نجيب)
+Gabriel Miller
+Jamie Morrison
+Stacey Unold
+Edward Price
+Kevin Bonning
+Matthew Misiak
+Nayana Shrestha
+Mark Damiano
+Julie Campbell
+Nayana Shrestha
+Monika Saran
+Mirna Neves
+Barbara Santos
+Engy Naguib (إنچي نجيب)
+Engy Naguib (إنچي نجيب)
+Regan Abbeduto
+Evan Sawaya
+Evan Sawaya
+N/A
+Evan Sawaya
+Ruby Hilton
+Patrick Rumpz
+Steve Johnson
+Steve Johnson
+Ojus Narayana
+Ojus Narayana
+Leigh Parrott
+Barbara Santos
+Regan Abbeduto
+Mary Ann Adams
+Ed Price
+Brittany Pletscher
+Rory Urban
+Rory Urbin
+Rory Urbin
+Regan Abbeduto
+Ojus Narnayana
+Marc Gramlich
+Kimberley Lukas
+Heather Hodges
+Angie Caro Rojas
+Angie Caro Rojas
+Gene Huskey III
+Kristie Bailey
+Kristie Bailey
+Barbara Santos
+Andrea Aristizabal Villegas
+No Owner Needed
+Christine Dickow
+Emilia Llanos Campana
+Engy Naguib (إنچي نجيب)
+Barbara Santos
+Kaitlynn Baksa
+Christine Darbonne
+Ojus Narayana
+Ed Price
+Margaret Raddatz
+Margaret Raddatz
+Margaret Raddatz
+Margaret Raddatz
+Margaret Raddatz
+Margaret Raddatz
+Margaret Raddatz
+Margaret Raddatz
+Margaret Raddatz
+Margaret Raddatz
+Margaret Raddatz
+Margaret Raddatz
+Indiah Sims
+Marc Gramlich
+Need a Primary Business Owner
+Carol Nagy
+Stephen Keeran
+Barbara Santos
+Andrea Aristizabal Villegas
+Craig Hanson
+Marc Gramlich
+Carrie King
+Nathan Aguilar
+Colette Wells
+Colette Wells
+Colette Wells
+Colette Wells
+Colette Wells
+Colette Wells
+Colette Wells
+Colette Wells
+Meghan Pastoria
+Jessica Stopyak
+Jessica Stopyak
+Mirna Neves
+Theodore Dy
+Mirna Neves
+Larissa Meneguello
+Barbara Santos
+Engy Naguib (إنچي نجيب)
+Engy Naguib (إنچي نجيب)
+Jon Rickner
 
 
-Source (Cognos/BI Server/DBX)
+Data Sources
+Cloud
+On-Prem
+On-Prem
+On-Prem
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+On-Prem
+On-Prem
+On-Prem
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+N/A
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+On-Prem
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+On-Prem
 
-PBI Pro (DBX)
-Mail
-Mail
+Cloud
+Cloud
 
-
-PBI Pro (DBX)
-Cognos 
-PBI Pro (DBX)
-PBI Pro (DBX)
-PBI Pro (DBX)
-PBI Pro (DBX)
-PBI Pro (DBX)
-PBI Pro (DBX)
-PBI Pro (DBX)
-PBI Pro (DBX)
-PBI Pro (DBX)
-PBI Pro (DBX)
-Cognos
-Cognos
-Cognos
-PBI Pro (DBX)
-PBI Pro (DBX)
-PBI Pro (DBX)
-PBI Pro (DBX)
-PBI Pro (DBX)
-PBI Pro (DBX)
-PBI Pro (DBX)
-PBI Pro (DBX)
-PBI Pro (DBX)
-PBI Pro (DBX)
-PBI Pro (DBX)
-PBI On-Prem
-PBI Pro (DBX)
-PBI Pro (DBX)
-Cognos
-PBI On-Prem
-Query
-PBI Pro (DBX)
-PBI On-Prem
-PBI On-Prem
-Cognos (Email)
-Cognos (Email)
-Cognos (Email)
-PBI Pro (DBX)
-PBI Pro (DBX)
-Cognos
-Cognos
-Cognos
+Cloud
+On-Prem
 
 
+Cloud
+Cloud
+Cloud
+On-Prem
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
 
 
-Cognos
+Cloud
+Cloud
 
 
-PBI Pro (DBX)
 
-PBI Pro (DBX)
-PBI Pro (DBX)
-PBI Pro (DBX)
-PBI Pro (DBX)
-PBI Pro (DBX)
+Cloud
 
-PBI On-Prem
-PBI Pro (DBX)
-PBI Pro (DBX)
-PBI Pro (DBX)
-PBI Pro (DBX)
-PBI Pro (DBX)
-PBI Pro (DBX)
-Retired
-Retired
-Retired
-Retired
-PBI Pro (DBX)
-PBI Pro (DBX)
-PBI Pro (DBX)
-Retired
 
-PBI Pro (DBX)
-Cognos (Email)
-Cognos (Email)
-Cognos (Email)
-Cognos (Email)
-PBI Server
-PBI Server
-Retired
-Cognos (Email)
 
-Retired
-PBI Pro (DBX)
-Cognos (Email)
-PBI Pro (DBX)
+
+Cloud
+Cloud
+On-Prem
+Cloud
+On-Prem
+On-Prem
+On-Prem
+On-Prem
+On-Prem
+On-Prem
+Cloud
+Cloud
+Cloud
+Cloud
+N/A
+Cloud
+Cloud
+On-Prem
+
+On-Prem
+Cloud
+
+On-Prem
+On-Prem
+Cloud
+
+Cloud
+Cloud
+Cloud
+On-Prem
+On-Prem
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+On-Prem
+On-Prem
+On-Prem
+On-Prem
+On-Prem
+On-Prem
+On-Prem
+On-Prem
+On-Prem
+On-Prem
+On-Prem
+On-Prem
+On-Prem
+On-Prem
+
+On-Prem
+On-Prem
+Cloud
+On-Prem
+On-Prem
+
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+On-Prem
+Cloud
+Cloud
+On-Prem
+On-Prem
+Cloud
+Cloud
+On-Prem
+On-Prem
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cloud
+Cloud
+Cloud
+
+
+
+Cloud
+Cloud
+
+On-Prem
+
+Cloud
+On-Prem
+
+On-Prem
+Cloud
+
+On-Prem
+Cloud
+On-Prem
+
+On-Prem
+On-Prem
+Cloud
+
+
+On-Prem
+
+On-Prem
+On-Prem
+Cloud
+N/A
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+N/A
+Cloud
+Cloud
+
+On-Prem
+Cloud
+Cloud
+
+Cloud
+Cloud
+Cloud
+On-Prem
+Cloud
+
+Cloud
+Cloud
+Cloud
+Cloud
+On-Prem
+On-Prem
+Cloud
+Cloud
+Cloud
+On-Prem
+Cloud
+Cloud
+On-Prem
+
+On-Prem
+On-Prem
+Cloud
+Cloud
+On-Prem
+Cloud
+N/A
+Cloud
+On-Prem
+On-Prem
+Cloud
+On-Prem
+Cloud
+N/A
+On-Prem
+N/A
+Cloud
+Cloud
+N/A
+Cloud
+On-Prem
+On-Prem
+On-Prem
+Cloud
+Cloud
+Cloud
+
+Cloud
+
+Cloud
+On-Prem
+On-Prem
+On-Prem
+On-Prem
+Cloud
+On-Prem
+Cloud
+Cloud
+Cloud
+
+Cloud
+N/A
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+
+
+Cloud
+Cloud
+Cloud
+
+
+
+
+Cloud
+Cloud
+Cloud
+Cloud
+N/A
+On-Prem
+On-Prem
+On-Prem
+On-Prem
+
+On-Prem
+On-Prem
+N/A
+N/A
+N/A
+N/A
+On-Prem
+N/A
+On-Prem
+Cloud
+
+On-Prem
+On-Prem
+On-Prem
+On-Prem
+Cloud
+On-Prem
+
+Cloud
+Cloud
+On-Prem
+On-Prem
+Cloud
+On-Prem
+Cloud
+On-Prem
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+On-Prem
+On-Prem
+On-Prem
+Cloud
+Cloud
+On-Prem
+Cloud
+Cloud
+On-Prem
+N/A
+On-Prem
+On-Prem
+On-Prem
+Cloud
+On-Prem
+Cloud
+On-Prem
+
+
+Cloud
+Cloud
+Cloud
+Cloud
+On-Prem
+On-Prem
+
+
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+Cloud
+
+On-Prem
+On-Prem
+
+Cloud
+On-Prem
+On-Prem
+On-Prem
+On-Prem
+Cloud
+Cloud
+Cloud
+On-Prem
+
+On-Prem
+On-Prem
+On-Prem
+Cloud
+Cloud
+On-Prem
+N/A
+
+Cloud
+On-Prem
+N/A
+Cloud
+Cloud
+Cloud
+On-Prem
+On-Prem
+Cloud
+
+
+
+On-Prem
+On-Prem
+On-Prem
+Cloud
+Cloud
+Cloud
+Cloud
+On-Prem
+On-Prem
+On-Prem
+On-Prem
+
+
+On-Prem
+
+
+
+On-Prem
+On-Prem
+On-Prem
+On-Prem
+
+Cloud
+
+Cloud
+
+On-Prem
+Cloud
+Cloud
+
+On-Prem
+On-Prem
+On-Prem
+Cloud
+
+Cloud
+On-Prem
+
+
+
+On-Prem
+
+
+N/A
+On-Prem
+N/A
+Cloud
+On-Prem
+On-Prem
+On-Prem
+On-Prem
+On-Prem
+On-Prem
+On-Prem
+On-Prem
+On-Prem
+On-Prem
+Cloud
+Cloud
+
+On-Prem
+
+
+On-Prem
+On-Prem
+N/A
 
